@@ -49,15 +49,14 @@ recent_posts_number = 3
 networks = [
   "email",
   "facebook",
-  "bluesky",
   "linkedin"
 ]
 
 [params.ananke.social.follow]
 networks = [
   "facebook",
-  "bluesky",
-  "linkedin"
+  "linkedin",
+  "instagram"
 ]
 
 [params.ananke.social.facebook]
@@ -67,5 +66,6 @@ username = "patrick.kollitsch"
 [params.ananke.social.linkedin]
 username = "patrickkollitsch"
 
-[params.ananke.social.bluesky]
-username = "kollitsch.dev"
+[params.ananke.social.instagram]
+username = "nagirny_roman"
+# profilelink = "https://www.instagram.com/nagirny_roman"

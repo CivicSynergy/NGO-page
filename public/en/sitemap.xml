@@ -102,10 +102,6 @@
                 href="http://localhost:1313/post/"
                 />
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -133,5 +129,9 @@
                 hreflang="en-US"
                 href="http://localhost:1313/contact/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
