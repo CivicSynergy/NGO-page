@@ -1,0 +1,22 @@
+nav{
+    position: fixed;
+    background-color: ghostwhite;
+    width: 100%;
+    border-bottom: 2px solid lightblue;
+    z-index: 4;
+}
+#header-text-box{
+  margin:0px;
+}
+.header-banner{
+    width: 40%;
+    min-width: 300px;
+    margin-left: 10px;
+}
+#main-head{
+  height: 95dvh;
+}
+#main-head-text{
+  margin-top: 30dvh;
+  margin-bottom: 3dvh;
+}
