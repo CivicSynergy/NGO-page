@@ -1,7 +1,7 @@
 nav{
-    position: fixed;
     background-color: ghostwhite;
     width: 100%;
+    height: auto;
     border-bottom: 2px solid lightblue;
     z-index: 4;
 }
@@ -14,9 +14,105 @@ nav{
     margin-left: 10px;
 }
 #main-head{
-  height: 95dvh;
+  height: 86dvh;
 }
 #main-head-text{
   margin-top: 30dvh;
   margin-bottom: 3dvh;
+}
+.footer-logo-box{
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  height: 100%;
+  width: auto;
+  padding-top: 5dvh;
+  padding-bottom: 5dvh;
+  padding-right: 5dvw;
+
+}
+.footer-logo{
+  width: 200px;
+}
+.footer-information{
+  color: rgb(250, 250, 250);
+  width: 30%;
+  margin-top: 1dvh;
+}
+.footer-information-header{
+  margin-bottom: 15px;
+}
+.footer-text{
+  line-height: 1.4;
+}
+.footer-contact-us{
+  color: rgb(250, 250, 250);
+  width: 30%;
+  margin-top: 1dvh;
+}
+.footer-contact-us-header{
+  margin-bottom: 15px;
+}
+.footer-email{
+  margin-bottom: 15px;
+}
+.footer-phone{
+  margin-bottom: 15px;
+}
+.footer-facebook{
+  margin-bottom: 15px;
+}
+@media only screen and (max-width: 940px) {
+  .footer-logo-box{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    height: 100%;
+    width: auto;
+    padding-top: 5dvh;
+    padding-bottom: 5dvh;
+    padding-right: 5dvw;
+  }
+  .footer-logo{
+    width: 200px;
+    align-self: center;
+    margin-bottom: 15px;
+  }
+  .footer-information{
+    color: rgb(250, 250, 250);
+    width: 100%;
+    margin-top: 1dvh;
+  }
+  .footer-information-header{
+    margin-bottom: 15px;
+  }
+  .footer-text{
+    line-height: 1.4;
+  }
+  .footer-contact-us{
+    color: rgb(250, 250, 250);
+    width: 30%;
+    margin-top: 1dvh;
+  }
+  .footer-contact-us-header{
+    margin-bottom: 15px;
+    margin-top: 25px;
+  }
+  .footer-email{
+    margin-bottom: 15px;
+  }
+  .footer-phone{
+    margin-bottom: 15px;
+  }
+  .footer-facebook{
+    margin-bottom: 15px;
+  }
+}
+@media only screen and (max-width:380px) {
+  .footer-contact-us{
+    color: rgb(250, 250, 250);
+    width: 100%;
+    margin-top: 1dvh;
+    font-size:0.9rem;
+  }
 }

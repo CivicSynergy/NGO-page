@@ -1,8 +1,15 @@
 <footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
-  <div class="flex justify-between">
-  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.Home.Permalink }}" >
-    &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
-  </a>
-    <div>{{ partialCached "social/follow.html" . }}</div>
+  <div class="footer-logo-box"><img src="\images\Logos\NGO white.svg" class="footer-logo">
+    <div class="footer-information"><div class="footer-information-header">NGO “Civil synergy”</div>
+      <div class="footer-text">Civil Synergy is an NGO committed to accelerating the development of civil society in Ukraine. Through formal and informal education, we unite proactive citizens to achieve impactful socio-economic progress and drive lasting change.</div>
+      </div>
+      <div class="footer-contact-us">
+        <div class="footer-contact-us-header">Contact us:</div>
+        <div class="footer-email">dlugopolsky77@gmail.com</div>
+        <div class="footer-phone">+380682750430</div>
+        <div class="footer-facebook">https://www.facebook.com/oleksandr.dluhopolskyi</div>
+        <div>support us</div>
+      </div>
+    
   </div>
 </footer>
