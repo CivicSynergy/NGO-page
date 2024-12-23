@@ -102,6 +102,11 @@
                 href="http://localhost:1313/post/"
                 />
   </url><url>
+    <loc>http://localhost:1313/reports/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -116,21 +121,7 @@
                 href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ukr"
-                href="http://localhost:1313/ukr/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/contact/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

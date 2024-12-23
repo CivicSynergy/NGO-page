@@ -94,15 +94,5 @@
     <loc>http://localhost:1313/ukr/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ukr"
-                href="http://localhost:1313/ukr/contact/"
-                />
   </url>
 </urlset>
