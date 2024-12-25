@@ -223,12 +223,14 @@ nav{
   font-family: 'Montserrat', sans-serif;
   font-weight: 500;
   font-size: 40px;
-  color: #3b3b3b;
+  margin-left: 10%;
+  margin-right: 10%;
+  color: #575454;
 }
 .separator{
   width: 30%; 
   margin: auto;
-  border: 2px solid rgb(54, 54, 54);
+  border: 2px solid #575454;
   margin-top: 20px;
   margin-bottom: 20px;
 }
@@ -261,6 +263,8 @@ nav{
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-left: 2%;
+  margin-right: 2%;
   max-width: 200px;
   text-align: center;
 }
@@ -275,5 +279,27 @@ nav{
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  width: 100%;
   gap: 6em;
+}
+.main-images{
+  width: auto;
+  height: auto;
+}
+@media only screen and (max-width: 940px) {
+  #logoContent p{
+    font-size: 1.3rem;
+  }
+  .blockTitle{
+    font-size: 35px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  #logoContent p{
+    font-size: 1.2rem;
+  }
+  .blockTitle{
+   font-size: 30px;
+  }
+  
 }
