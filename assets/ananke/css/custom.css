@@ -189,6 +189,9 @@ nav{
   }
 }
 @media only screen and (max-width: 700px) {
+  #logoContent{
+    width: 100px;
+  }
   .main-head{
     font-size: 0.6em;
     font-weight: 300;
@@ -196,6 +199,10 @@ nav{
   .main-head-h4{
     margin-left: 2dvw;
     border-bottom: 1px solid #3b3b3b51;
+  }
+  .blockContent{
+    flex-wrap: wrap;
+    margin:1%;
   }
 }
 #main-posts-header{
@@ -212,6 +219,7 @@ nav{
 }
 .blockTitle{
   text-align: center;
+  text-transform: uppercase;
   font-family: 'Montserrat', sans-serif;
   font-weight: 500;
   font-size: 40px;
@@ -225,21 +233,29 @@ nav{
   margin-bottom: 20px;
 }
 .blockContent{
+  margin:10%;
+  margin-top:3%;
   max-width: 100%;
   display: flex;
   justify-content:center;
-
   gap: 1em;
 }
 #aboutUsImage{
   border-radius: 2%;
-  width: 40%;
+  width: 250%;
 }
 .pagagraph{
+  max-width:100%;
+  height: fit-content;
+  margin: 10px;
+  padding: 20px;
+  background-color: white;
+  padding: auto;
   font-family: 'Rubik', sans-serif;
   color: #3b3b3b;
-  font-size: 22px;
+  font-size: 26px;
   text-align: left;
+  border-radius: 10px;
 }
 #logoContent{
   display: flex;
@@ -255,6 +271,9 @@ nav{
   font-size:x-large;
 }
 .images{
+  margin: auto;
   display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
   gap: 6em;
 }
