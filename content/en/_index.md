@@ -17,31 +17,31 @@ cascade:
             <div class="blockContent" style="flex-direction: column;">
               <div class="images">
                 <div id="logoContent">
-                  <img src="images/education.png" alt="lock" class="main-images">
+                  <img src="images/Icons/education.png" alt="lock" class="main-images">
                   <p>
                     inclusive education
                   </p>
                 </div>
                 <div id="logoContent">
-                  <img src="images/decentralization.png" alt="education" class="main-images">
+                  <img src="images/Icons/decentralization.png" alt="education" class="main-images">
                   <p>
                     democratization and decentralization
                   </p>
                 </div>
                 <div id="logoContent">
-                  <img src="images/social behavior.png" alt="globe" class="main-images">
+                  <img src="images/Icons/social behavior.png" alt="globe" class="main-images">
                   <p>
                     social cohesion
                   </p>
                 </div>
                 <div id="logoContent">
-                  <img src="images/gender.png" alt="idea" class="main-images">
+                  <img src="images/Icons/gender.png" alt="idea" class="main-images">
                   <p>
                     gender equality
                   </p>
                 </div>
                 <div id="logoContent">
-                  <img src="images/digitalization.png" alt="idea" class="main-images">
+                  <img src="images/Icons/digitalization.png" alt="idea" class="main-images">
                   <p>
                     digitalization
                   </p>
@@ -68,31 +68,31 @@ cascade:
             <div class="blockContent" style="flex-direction: column;">
               <div class="images">
                 <div id="logoContent">
-                  <img src="images/lock.png" alt="lock">
+                  <img src="images/Icons/lock.png" alt="lock">
                   <p>
                     Unlock Initiative
                   </p>
                 </div>
                 <div id="logoContent">
-                  <img src="images/education.png" alt="education">
+                  <img src="images/Icons/education.png" alt="education">
                   <p>
                     Education Empoverment  
                   </p>
                 </div>
                 <div id="logoContent">
-                  <img src="images/globe.png" alt="globe">
+                  <img src="images/Icons/globe.png" alt="globe">
                   <p>
                     Leadership Horizons
                   </p>
                 </div>
                 <div id="logoContent">
-                  <img src="images/lamp.png" alt="idea">
+                  <img src="images/Icons/lamp.png" alt="idea">
                   <p>
                     provide new technologies
                   </p>
                 </div>
                 <div id="logoContent">
-                  <img src="images/path.png" alt="idea">
+                  <img src="images/Icons/path.png" alt="idea">
                   <p>
                     show better path
                   </p>
