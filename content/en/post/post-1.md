@@ -2,7 +2,7 @@
 date: 2024-12-26T00:00:00-05:00
 description: "Advancing Inclusive Digital Education: Highlights from the MIIVC Training at the University of Alcalá"
 featured_image: "/images/Posts/Post1/image2.png"
-tags: ["scene"]
+tags: ["Inclusive Education", "Virtual Campus", "Digital Tools", "Civic Synergy", "University of Alcalá", "AFID Project", "Online Learning", "Universal Design", "Teacher Training"]
 title: "Advancing Inclusive Digital Education: Highlights from the MIIVC Training at the University of Alcalá"
 ---
 
