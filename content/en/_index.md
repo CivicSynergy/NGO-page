@@ -57,7 +57,9 @@ cascade:
             <h1 class="blockTitle">ABOUT US</h1>
             <hr class="separator"/>
             <div class="blockContent">
-              <img src="images/about us.png" id="aboutUsImage" alt="about us"/>
+              <div class="imageContainer">
+                <img src="images/about us.png" id="aboutUsImage" alt="about us"/>
+              </div>
               <p class="pagagraph">
                 The mission of the NGO "Civil Synergy" is to drive meaningful changes in the development of civil society in Ukraine by promoting both formal and informal education. Through education, we aim to empower individuals to become active participants in shaping a democratic and inclusive society.<br/><br/>
                 Our vision is based on the belief that this mission can be achieved through the collective efforts of proactive, socially conscious citizens. By uniting those committed to progressive socio-economic changes, we can create a society rooted in collaboration, resilience, and shared responsibility.<br/>
@@ -107,6 +109,15 @@ cascade:
             </div>
             <h1 class="blockTitle">Center for Sustainable Community Development </h1>
             <hr class="separator"/>
+              <div class="blockContent">
+              <div class="imageContainer">
+                <img src="images/team work.jpg" id="aboutUsImage" alt="about us"/>
+              </div>
+              <p class="pagagraph">
+              The Center for Sustainable Community Development of the NGO "Civic Synergy" provides expert support to facilitate the green transition of communities in Ukraine. We help communities develop and implement sustainable development strategies that address economic, social, and environmental challenges.<br/><br/>
+              Our approach focuses on empowering communities to become resilient and self-sufficient, promoting eco-friendly practices, and fostering long-term sustainability. Through tailored support, workshops, and collaborative projects, we aim to build the capacity of local leaders and residents to drive positive change for a sustainable future.
+              </p>
+            </div>
           </div>
 
   </article>
