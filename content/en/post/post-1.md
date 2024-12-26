@@ -1,7 +1,7 @@
 ---
 date: 2024-12-26T00:00:00-05:00
 description: "Advancing Inclusive Digital Education: Highlights from the MIIVC Training at the University of Alcalá"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+featured_image: "/images/Posts/Post1/image2.png"
 tags: ["scene"]
 title: "Advancing Inclusive Digital Education: Highlights from the MIIVC Training at the University of Alcalá"
 ---
@@ -16,6 +16,7 @@ The essence and specifics of inclusive education in today's context: Challenges 
 The AFID project student: Identifying the personality of students or potential learners and outlining their individual needs. Understanding student motivation for using inclusive online courses.
 The immersive university model: Improving collaboration between educators and students.
 Principles of universal design for online courses: A case study on building inclusive online content.
-Methods of inclusive education: Tools for online communication and presenting materials inclusively on online learning platforms (OLP).
+Methods of inclusive education: Tools for online communication and presenting materials inclusively on online learning platforms (OLP).<br/>
+
 
 <img src="/images/Posts/Post1/image1.png"/>
