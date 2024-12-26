@@ -8,7 +8,7 @@ cascade:
   featured_image: '/images/Main-preview1.jpg'
 ---
 <hr class="main-hr">
-<div class="main-head"><h4 class="main-head-h4">COMMUNITY DEVELOPMENT</h4><h4 class="main-head-h4">TEAM MEMBERS</h4><h4 class="main-head-h4">OUR MISSION</h4><h4 class="main-head-h4">ABOUT US</h4><h4 class="main-head-h4">CONTACT US</h4></div>
+<div class="main-head"><h4 class="main-head-h4"><a href="#about-us-link" class="main-link">ABOUT US</a></h4><h4 class="main-head-h4"><a href="#our-mission-link" class="main-link">OUR MISSION</a></h4><h4 class="main-head-h4"><a href="#community-center-link" class="main-link">COMMUNITY CENTER</a></h4><h4 class="main-head-h4"><a href="#issues-link" class="main-link">AREAS OF WORK</a></h4><h4 class="main-head-h4"><a href="#footer-link" class="main-link">CONTACT US</a></h4></div>
 
   <article>
           <div>
@@ -54,7 +54,7 @@ cascade:
                   on grant writing and provide support to IDPs and veterans, helping them access necessary resources and build a new life. 
               </p>
             </div>
-            <h1 class="blockTitle">ABOUT US</h1>
+            <h1 class="blockTitle" id="about-us-link">ABOUT US</h1>
             <hr class="separator"/>
             <div class="blockContent">
               <div class="imageContainer">
@@ -65,7 +65,7 @@ cascade:
                 Our vision is based on the belief that this mission can be achieved through the collective efforts of proactive, socially conscious citizens. By uniting those committed to progressive socio-economic changes, we can create a society rooted in collaboration, resilience, and shared responsibility.<br/>
               </p>
             </div>
-            <h1 class="blockTitle">OUR MISSION</h1>
+            <h1 class="blockTitle" id="our-mission-link">OUR MISSION</h1>
             <hr class="separator"/>
             <div class="blockContent" style="flex-direction: column;">
               <div class="images">
@@ -107,7 +107,7 @@ cascade:
                   on grant writing and provide support to IDPs and veterans, helping them access necessary resources and build a new life. 
               </p>
             </div>
-            <h1 class="blockTitle">Center for Sustainable Community Development </h1>
+            <h1 class="blockTitle" id="community-center-link">Center for Sustainable Community Development </h1>
             <hr class="separator"/>
               <div class="blockContent">
                 <div class="imageContainer">
@@ -118,7 +118,7 @@ cascade:
                 Our approach focuses on empowering communities to become resilient and self-sufficient, promoting eco-friendly practices, and fostering long-term sustainability. Through tailored support, workshops, and collaborative projects, we aim to build the capacity of local leaders and residents to drive positive change for a sustainable future.
                 </p>
               </div>
-              <h5 class="blockTitle" style=" text-align: left; font-size:30px; margin-top:0px;">Our experience covers a wide range of issues: </h5>
+              <h5 class="blockTitle" style=" text-align: left; font-size:30px; margin-top:0px;" id="issues-link">Our experience covers a wide range of issues: </h5>
               <div class="blockContent">
                 <ul class="list">
                   <li>Conclusion and implementation of interuniversity agreements on inclusive digital education via multi-institutional inclusive virtual campus (MIIVC).</li>
