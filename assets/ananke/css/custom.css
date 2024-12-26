@@ -225,6 +225,7 @@ nav{
   font-size: 40px;
   margin-left: 10%;
   margin-right: 10%;
+  margin: top 0;
   color: #575454;
 }
 .separator{
@@ -266,6 +267,7 @@ nav{
   font-size: 26px;
   text-align: left;
   border-radius: 10px;
+  box-shadow: 0px 0px 5px #d2d2d2; 
 }
 #logoContent{
   display: flex;
@@ -294,6 +296,21 @@ nav{
   width: auto;
   height: auto;
 }
+.list{
+  text-align: left;
+  align-self: self-start;
+  
+}
+.list li{
+  background-color: white;
+  border-radius: 10px;
+  font-size: 25px;
+  color: #3b3b3b;
+  margin-bottom: 10px;
+  padding: 1%;
+  box-shadow: 0px 0px 5px #d2d2d2; 
+}
+
 @media only screen and (max-width: 1400px) {
   .blockContent{
     flex-direction: column;
@@ -317,5 +334,4 @@ nav{
   .blockTitle{
    font-size: 30px;
   }
-  
 }
