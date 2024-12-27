@@ -129,11 +129,11 @@ cascade:
                   <li>Promoting international cooperation between HEIs.</li>
                 </ul>
               </div>
-               <h1 class="blockTitle" id="community-center-link">OUR FOUNDERS</h1>
-            <hr class="separator"/>
+              <h1 class="blockTitle" id="community-center-link">OUR FOUNDERS</h1>
+              <hr class="separator"/>
               <div class="teamMemberBoard" >
                <div id="teamMemberBlockContent">
-                  <a href="">
+                  <a href="/cvs/Founders/Europass Dluhopolskyi.pdf" target="blank">
                     <img src="/images/Team/Founders/Oleksandr Dlugopolsky.jpg" class="teamMemberCVPhoto" alt="Founder"/>
                   </a>
                   <p id="MemberName">Oleksandr Dlugopolsky</p>
@@ -152,6 +152,21 @@ cascade:
                   <div id="memberSocialMedia">
                   <a href=""><img src="/images/SocialMediaIcons/linkedIn.png" id="socialMediaIcon" alt="LinkedIn"/></a>
                   <a href=""><img src="/images/SocialMediaIcons/X.png" id="socialMediaIcon" alt="X"/></a>
+                  </div>
+               </div>
+              </div>
+              <h1 class="blockTitle" id="community-center-link">TEAM MEMBERS</h1>
+              <hr class="separator"/>
+              <div class="teamMemberBoard" >
+               <div id="teamMemberBlockContent">
+                  <a href="/cvs/Volunteers/Maksym Bozhok.pdf" target="blank">
+                    <img src="/images/Team/Members/Maksym Bozhok.png" class="teamMemberCVPhoto" alt="Founder"/>
+                  </a>
+                  <p id="MemberName">Maksym Bozhok</p>
+                  <p id="MemberPosition">Volunteer</p>
+                  <div id="memberSocialMedia">
+                  <a href=""><img src="/images/SocialMediaIcons/linkedIn.png" id="socialMediaIcon" alt="LinkedIn"/></a>
+                  <a href=""><img src="/images/SocialMediaIcons/instagram.png" id="socialMediaIcon" alt="Instagram"/></a>
                   </div>
                </div>
               </div>
