@@ -139,8 +139,8 @@ cascade:
                   <p id="MemberName">Oleksandr Dlugopolsky</p>
                   <p id="MemberPosition">Executive director</p>
                   <div id="memberSocialMedia">
-                  <a href=""><img src="/images/SocialMediaIcons/linkedIn.png" id="socialMediaIcon" alt="LinkedIn"/></a>
-                  <a href=""><img src="/images/SocialMediaIcons/instagram.png" id="socialMediaIcon" alt="Instagram"/></a>
+                  <a href="" target="blank"><img src="/images/SocialMediaIcons/linkedIn.png" id="socialMediaIcon" alt="LinkedIn"/></a>
+                  <a href="" target="blank"><img src="/images/SocialMediaIcons/instagram.png" id="socialMediaIcon" alt="Instagram"/></a>
                   </div>
                </div>
                <div id="teamMemberBlockContent">
@@ -150,8 +150,8 @@ cascade:
                   <p id="MemberName">Yuriy Ivashuk</p>
                   <p id="MemberPosition">Chairman of the supervisory board</p>
                   <div id="memberSocialMedia">
-                  <a href=""><img src="/images/SocialMediaIcons/linkedIn.png" id="socialMediaIcon" alt="LinkedIn"/></a>
-                  <a href=""><img src="/images/SocialMediaIcons/X.png" id="socialMediaIcon" alt="X"/></a>
+                  <a href="" target="blank"><img src="/images/SocialMediaIcons/linkedIn.png" id="socialMediaIcon" alt="LinkedIn"/></a>
+                  <a href="" target="blank"><img src="/images/SocialMediaIcons/X.png" id="socialMediaIcon" alt="X"/></a>
                   </div>
                </div>
               </div>
@@ -165,8 +165,8 @@ cascade:
                   <p id="MemberName">Maksym Bozhok</p>
                   <p id="MemberPosition">Volunteer</p>
                   <div id="memberSocialMedia">
-                  <a href=""><img src="/images/SocialMediaIcons/telegram.png" id="socialMediaIcon" alt="LinkedIn"/></a>
-                  <a href=""><img src="/images/SocialMediaIcons/instagram.png" id="socialMediaIcon" alt="Instagram"/></a>
+                  <a href="" target="blank"><img src="/images/SocialMediaIcons/telegram.png" id="socialMediaIcon" alt="LinkedIn"/></a>
+                  <a href="" target="blank"><img src="/images/SocialMediaIcons/instagram.png" id="socialMediaIcon" alt="Instagram"/></a>
                   </div>
                </div>
               </div>
