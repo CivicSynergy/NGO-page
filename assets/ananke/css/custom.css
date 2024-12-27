@@ -297,7 +297,7 @@ nav{
   align-items: center;
   margin-left: 2%;
   margin-right: 2%;
-  max-width: 200px;
+  width: 11%;
   text-align: center;
 }
 #logoContent p{
@@ -312,7 +312,7 @@ nav{
   justify-content: center;
   flex-wrap: wrap;
   width: 100%;
-  gap: 6em;
+  gap: 4em;
 }
 .main-images{
   width: auto;
