@@ -165,7 +165,7 @@ cascade:
                   <p id="MemberName">Maksym Bozhok</p>
                   <p id="MemberPosition">Volunteer</p>
                   <div id="memberSocialMedia">
-                  <a href=""><img src="/images/SocialMediaIcons/linkedIn.png" id="socialMediaIcon" alt="LinkedIn"/></a>
+                  <a href=""><img src="/images/SocialMediaIcons/telegram.png" id="socialMediaIcon" alt="LinkedIn"/></a>
                   <a href=""><img src="/images/SocialMediaIcons/instagram.png" id="socialMediaIcon" alt="Instagram"/></a>
                   </div>
                </div>
