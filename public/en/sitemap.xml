@@ -11,11 +11,31 @@
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ukr"
+                href="http://localhost:1313/ukr/post/post-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/post/post-1/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/afid-erasmus&#43;cbhe/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ukr"
+                href="http://localhost:1313/ukr/tags/afid-erasmus&#43;cbhe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/tags/afid-erasmus&#43;cbhe/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/afid-project/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
@@ -26,6 +46,16 @@
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ukr"
+                href="http://localhost:1313/ukr/post/post-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/post/post-5/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/agora-journal/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
@@ -61,6 +91,16 @@
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ukr"
+                href="http://localhost:1313/ukr/post/post-7/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/post/post-7/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/digital-tools/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
@@ -81,6 +121,16 @@
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ukr"
+                href="http://localhost:1313/ukr/tags/erasmus&#43;-afid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/tags/erasmus&#43;-afid/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/higher-education/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
@@ -91,6 +141,16 @@
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ukr"
+                href="http://localhost:1313/ukr/post/post-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/post/post-2/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/inclusive-education/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
@@ -126,6 +186,16 @@
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ukr"
+                href="http://localhost:1313/ukr/tags/ms-teams/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/tags/ms-teams/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/neet-integration/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
@@ -161,6 +231,16 @@
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ukr"
+                href="http://localhost:1313/ukr/post/post-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/post/post-6/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/project-management/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
@@ -171,11 +251,31 @@
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ukr"
+                href="http://localhost:1313/ukr/post/post-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/post/post-4/"
+                />
   </url><url>
     <loc>http://localhost:1313/post/post-3/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ukr"
+                href="http://localhost:1313/ukr/post/post-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/post/post-3/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/society-5.0/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
