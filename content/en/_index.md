@@ -8,7 +8,7 @@ cascade:
   featured_image: '/images/Main-preview1.jpg'
 ---
 <hr class="main-hr">
-<div class="main-head"><h4 class="main-head-h4"><a href="#about-us-link" class="main-link">ABOUT US</a></h4><h4 class="main-head-h4"><a href="#our-mission-link" class="main-link">OUR MISSION</a></h4><h4 class="main-head-h4"><a href="#community-center-link" class="main-link">COMMUNITY CENTER</a></h4><h4 class="main-head-h4"><a href="#issues-link" class="main-link">AREAS OF WORK</a></h4><h4 class="main-head-h4"><a href="#footer-link" class="main-link">CONTACT US</a></h4></div>
+<div class="main-head"><h4 class="main-head-h4"><a href="#about-us-link" class="main-link">ABOUT US</a></h4><h4 class="main-head-h4"><a href="#our-mission-link" class="main-link">OUR MISSION</a></h4><h4 class="main-head-h4"><a href="#community-center-link" class="main-link">COMMUNITY CENTER</a></h4><h4 class="main-head-h4"><a href="#issues-link" class="main-link">RANGE OF ISSUES</a></h4><h4 class="main-head-h4"><a href="#footer-link" class="main-link">CONTACT US</a></h4></div>
 
   <article>
           <div>
@@ -47,11 +47,7 @@ cascade:
                   </p>
                 </div>
               </div>
-              <p class="paragraph">At the heart of our work is the idea of unlocking the potential of every citizen.
-                 We believe that investing in human capital is the best investment in the future of the country. 
-                 That is why we organize educational programs and training aimed at developing leadership qualities, 
-                 entrepreneurial thinking, and effective communication skills. We also conduct specialized training programs
-                  on grant writing and provide support to IDPs and veterans, helping them access necessary resources and build a new life. 
+              <p class="paragraph">The mission of the NGO "Civil Synergy" is to accelerate qualitative changes in the formation of civil society in Ukraine through formal and informal education. Vision – we are convinced that there are real opportunities to turn the mission into reality with the effective unification of the efforts of proactive, socially active, conscious citizens who are dedicated to work aimed at progressive socio-economic changes. 
               </p>
             </div>
             <h1 class="blockTitle" id="about-us-link">ABOUT US</h1>
@@ -72,19 +68,19 @@ cascade:
                 <div id="logoContent">
                   <img src="images/Icons/lock.png" alt="lock">
                   <p>
-                    Unlock Initiative
+                    Unlock Potential 
                   </p>
                 </div>
                 <div id="logoContent">
                   <img src="images/Icons/education.png" alt="education">
                   <p>
-                    Education Empoverment  
+                    Education Improvement
                   </p>
                 </div>
                 <div id="logoContent">
                   <img src="images/Icons/globe.png" alt="globe">
                   <p>
-                    Leadership Horizons
+                    Leadership Development
                   </p>
                 </div>
                 <div id="logoContent">
@@ -96,7 +92,7 @@ cascade:
                 <div id="logoContent">
                   <img src="images/Icons/path.png" alt="idea">
                   <p>
-                    show better path
+                    effective communication
                   </p>
                 </div>
               </div>
