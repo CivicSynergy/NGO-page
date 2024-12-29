@@ -20,9 +20,9 @@ weight = 1
 title = "NGO “Civic Synergy”"
 # languageDirection = 'rtl' for Right-To-Left languages
 
-[languages.uk]
+[languages.ukr]
 contentDir = "content/ukr"
-languageCode = 'uk'
+languageCode = 'ukr'
 weight = 1
 title = "ГО “Громадська синергія”"
 

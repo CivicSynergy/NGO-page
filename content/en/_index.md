@@ -78,7 +78,7 @@ cascade:
                 <div id="logoContent">
                   <img src="images/Icons/education.png" alt="education">
                   <p>
-                    Education Improvement
+                    Education Empoverment  
                   </p>
                 </div>
                 <div id="logoContent">
@@ -121,12 +121,12 @@ cascade:
               <h5 class="blockTitle" style=" text-align: left; font-size:30px; margin-top:0px;" id="issues-link">Our experience covers a wide range of issues: </h5>
               <div class="blockContent">
                 <ul class="main-content-list">
-                  <li>Promoting renewable energy sources: consulting on the design, financing, and implementation of solar and wind power plant projects.</li>
-                  <li>Energy efficiency and energy saving: developing and implementing energy efficiency strategies to reduce energy consumption and increase the reliability of energy supply.</li>
-                  <li>Sustainable transport: promoting environmentally friendly modes of transport, developing cycling infrastructure, implementing transport sharing systems.</li>
-                  <li>Waste management: implementing modern waste sorting and recycling systems, promoting the concept of "zero waste."</li>
-                  <li>Environmental education and awareness: conducting trainings, seminars, and information campaigns to raise environmental awareness among citizens.</li>
-                  <h4>The Center for Sustainable Community Development strives to be a reliable partner for communities in their journey towards a sustainable and environmentally friendly future.</h4>
+                  <li>Conclusion and implementation of interuniversity agreements on inclusive digital education via multi-institutional inclusive virtual campus (MIIVC).</li>
+                  <li>Development of internal policies on organization, providing and quality assurance of digital education via MIIVC.</li>
+                  <li>Adaptation of participants’ educational digital systems, elaboration, and implementation of the MIIVC.</li>
+                  <li>Development of staff and students’ skills to enrich and exploit the MIIVC to provide and conduct an inclusive digital study.</li>
+                  <li>Providing of inclusive digital study as an optional component of HEIs’ educational programs.</li>
+                  <li>Promoting international cooperation between HEIs.</li>
                 </ul>
               </div>
               <h1 class="blockTitle" id="community-center-link">OUR FOUNDERS</h1>
