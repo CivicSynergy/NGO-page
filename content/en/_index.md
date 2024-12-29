@@ -25,7 +25,7 @@ cascade:
                 <div id="logoContent">
                   <img src="images/Icons/decentralization.png" alt="education" class="main-images">
                   <p>
-                    democratization and decentralization
+                    democratization agbc;gmflc;v;d'd decentralization
                   </p>
                 </div>
                 <div id="logoContent">
