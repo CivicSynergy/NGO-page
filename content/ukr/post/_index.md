@@ -1,5 +1,7 @@
 ---
-title: "Articles"
+title: "пости"
 date: 2017-03-02T12:00:00-05:00
+cascade:
+  featured_image: '/images/Main-preview2.jpg'
 ---
-Exemple de liste d'article français.
+There are all the posts you can see here

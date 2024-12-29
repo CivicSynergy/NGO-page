@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "projects"
 description:
 cascade:
   featured_image: '/images/Main-preview3.jpg'

@@ -1,26 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ananke: Un thème pour Hugo on ГО “Громадська синергія”</title>
+    <title>ГО “Громадська синергія”</title>
     <link>http://localhost:1313/ukr/</link>
-    <description>Recent content in Ananke: Un thème pour Hugo on ГО “Громадська синергія”</description>
+    <description>Recent content on ГО “Громадська синергія”</description>
     <generator>Hugo</generator>
-    <language>ukr</language>
-    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
+    <language>uk</language>
+    <lastBuildDate>Thu, 26 Dec 2024 00:00:00 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/ukr/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chapitre I: La grande halle</title>
-      <link>http://localhost:1313/ukr/post/chapter-1/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      <guid>http://localhost:1313/ukr/post/chapter-1/</guid>
-      <description>&lt;p&gt;Généralement, on utilise un texte en faux latin (le texte ne veut rien dire, il a été modifié), le Lorem ipsum ou Lipsum, qui permet donc de faire office de texte d&amp;rsquo;attente. L&amp;rsquo;avantage de le mettre en latin est que l&amp;rsquo;opérateur sait au premier coup d&amp;rsquo;oeil que la page contenant ces lignes n&amp;rsquo;est pas valide, et surtout l&amp;rsquo;attention du client n&amp;rsquo;est pas dérangée par le contenu, il demeure concentré seulement sur l&amp;rsquo;aspect graphique.&lt;/p&gt;</description>
+      <title>Advancing Inclusive Digital Education: Highlights from the MIIVC Training at the University of Alcalá</title>
+      <link>http://localhost:1313/ukr/post/post-1/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/ukr/post/post-1/</guid>
+      <description>&lt;p&gt;From November 27 to 29, 2023, a training session dedicated to developing tools for inclusive digital education was held at the University of Alcalá (Alcalá, Spain).&lt;/p&gt;&#xA;&lt;p&gt;The training began with a discussion of the technical requirements for creating a multi-institutional inclusive virtual educational campus (MIIVC). The functions, design, interface requirements, tools, and content for educational disciplines within the virtual campus were reviewed. Special attention was given to tools for ensuring inclusivity in the virtual campus.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/ukr/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ukr/contact/</guid>
-      <description>&lt;p&gt;Ceci est la page de contact en Français.&lt;/p&gt;&#xA;&lt;p&gt;This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the shortcode to make it work. Check out &lt;a href=&#34;https://formspree.io/&#34;&gt;Formspree&lt;/a&gt; for a simple, free form service.&lt;/p&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;form class=&#34;black-80 sans-serif&#34; accept-charset=&#34;UTF-8&#34; action=&#34;https://example.com&#34; method=&#34;POST&#34; role=&#34;form&#34;&gt;&#xD;&#xA;&#xD;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34;  for=&#34;name&#34;&gt;Your Name&lt;/label&gt;&#xD;&#xA;    &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34;  required placeholder=&#34; &#34;  aria-labelledby=&#34;name&#34;/&gt;&#xD;&#xA;&#xD;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;email&#34;&gt;Email Address&lt;/label&gt;&#xD;&#xA;    &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34;  required placeholder=&#34; &#34;  aria-labelledby=&#34;email&#34;/&gt;&#xD;&#xA;    &lt;div class=&#34;requirements f6 gray glow i ph3 overflow-hidden&#34;&gt;&#xD;&#xA;      An email address is required.&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;message&#34;&gt;Message&lt;/label&gt;&#xD;&#xA;    &lt;textarea id=&#34;message&#34; name=&#34;message&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn h4&#34; aria-labelledby=&#34;message&#34;&gt;&lt;/textarea&gt;&#xD;&#xA;&#xD;&#xA;    &lt;input class=&#34;db w-100 mv2 white pa3 bn hover-shadow hover-bg-black bg-animate bg-black&#34; type=&#34;submit&#34; value=&#34;Send&#34; /&gt;&#xD;&#xA;&#xD;&#xA;&lt;/form&gt;</description>
+      <title>AFID Project Insights: Inclusive Education and Digital Tools Unveiled</title>
+      <link>http://localhost:1313/ukr/post/post-5/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/ukr/post/post-5/</guid>
+      <description>&lt;p&gt;Exploring Inclusive Education and Digital Communication: Dr. Oleksandr Dluhopolskyi Presents AFID Project Results to Master&amp;rsquo;s Students in Educational Institution Management&lt;/p&gt;&#xA;&lt;p&gt;On March 2 and 9, 2024, as part of the &amp;ldquo;Project Management&amp;rdquo; course, Dr. Sc. (Economics), Prof.  Oleksandr Dluhopolskyi, Executive Director of the NGO &amp;ldquo;Civic Synergy&amp;rdquo;, presented the results of the AFID – “Academic Freedom and Inclusion through Digitalization” project to the students of the Master&amp;rsquo;s program &amp;ldquo;Educational Institution Management&amp;rdquo; at Ternopil Volodymyr Hnatyuk National Pedagogical University. The discussion covered topics such as the application of inclusive teaching and learning methods and key tools for online communication between teachers and students.&#xA;&lt;br/&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Digital Skills and Inclusion: Insights from AFID Training</title>
+      <link>http://localhost:1313/ukr/post/post-7/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/ukr/post/post-7/</guid>
+      <description>&lt;p&gt;Advancing Digital Skills and Inclusive Online Education: Professors Kozyuk and Dluhopolskyi Join International AFID Erasmus+CBHE Training&lt;/p&gt;&#xA;&lt;p&gt;Within the framework of the AFID Erasmus+CBHE project, Head of the Department of Economics and Economic Theory, Doctor of Economics, Professor V. Kozyuk and Professor of the Department of Economics and Economic Theory, Executive Director of the NGO “Public Synergy”, Doctor of Economics O. Dlugopolskyi took part in the training “Digital Skills for Teachers and Administrative Staff” (April 8-11, 2024). The training was also attended by representatives of several Ukrainian HEIs (DTEK, Lviv Polytechnic National University, HNUE named after S. Kuznets, NTU Dnipro Polytechnic), the University of Alcalá (Spain) and the University of Lisbon (Portugal).&lt;br&gt;&#xA;Participants had the opportunity to familiarize themselves with and practice:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Inclusive Digital Education Training under AFID Erasmus&#43;CBHE</title>
+      <link>http://localhost:1313/ukr/post/post-2/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/ukr/post/post-2/</guid>
+      <description>&lt;p&gt;Training on inclusive digital education AFID Erasmus+CBHE within the framework of cooperation between the NGO &amp;ldquo;Civic Synergy&amp;rdquo; and the NGO &amp;ldquo;Innovative University&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;During February 2-4, 2024, within the framework of the 4th winter training school &amp;ldquo;Educator for the future generation&amp;rdquo;, aimed at developing the competencies necessary for an educator in the conditions of society 5.0, the executive director of the NGO &amp;ldquo;Civic Synergy&amp;rdquo;, Dr. Sc. (Economics), Prof. Oleksandr Dluhopolskyi introduced the participants to the basics of inclusive learning and teaching, methods and digital applications for inclusive learning at the “Implementation of inclusiveness in online courses” training.&lt;br/&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prof. Dluhopolskyi Presents NEET Integration Insights at Ljubljana Conference</title>
+      <link>http://localhost:1313/ukr/post/post-6/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/ukr/post/post-6/</guid>
+      <description>&lt;p&gt;Exploring Inclusive Education and Digital Communication: Dr. Oleksandr Dluhopolskyi Presents AFID Project Results to Master&amp;rsquo;s Students in Educational Institution Management&lt;/p&gt;&#xA;&lt;p&gt;On May 16, 2024, as part of the Erasmus+ AFID project, Dr. Sc. (Economics), Prof.  Oleksandr Dluhopolskyi, Executive Director of the NGO &amp;ldquo;Civic Synergy&amp;rdquo;, presented a report at an international conference at the Ljubljana School of Business (Ljubljana, Slovenia) on the topic “NEETs Integration into Social and Economic Activity in the Context of Sustainability”. The presentation for an international audience (over 100 participants from various countries) focused on the importance of integrating NEET groups, including by involving them in online courses on various platforms to enhance their sustainable development competencies (example of AFID). As a result of the presentation, an article was published in the international journal Agora International Journal of Economical Sciences (&lt;a href=&#34;https://univagora.ro/jour/index.php/aijes/article/view/6708%29&#34;&gt;https://univagora.ro/jour/index.php/aijes/article/view/6708)&lt;/a&gt;.&#xA;&lt;br/&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sharing ERASMUS&#43; AFID Results with Polissia National University</title>
+      <link>http://localhost:1313/ukr/post/post-4/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/ukr/post/post-4/</guid>
+      <description>&lt;p&gt;Dissemination of information about the preliminary results of the ERASMUS+ AFID (Academic Freedom and Inclusion through Digitalization) project among Ukrainian HEIs&lt;/p&gt;&#xA;&lt;p&gt;On March 7, 2024, students and academic staff of Polissia National University met with Dr. Sc. (Economics), Prof. Oleksandr Dlugopolsky, Executive Director of the NGO &amp;ldquo;Civic Synergy&amp;rdquo;. In his speech, Oleksandr Dlugopolsky highlighted the specifics of implementing inclusivity in university online courses, drawing on the experience of the ERASMUS+ CBHE project &amp;ldquo;AFID – Academic Freedom and Inclusion through Digitalization&amp;rdquo;.&#xA;&lt;br/&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sharing Preliminary Results of the ERASMUS&#43; AFID Project with Ukrainian HEIs</title>
+      <link>http://localhost:1313/ukr/post/post-3/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/ukr/post/post-3/</guid>
+      <description>&lt;p&gt;Dissemination of information about the preliminary results of the ERASMUS+ AFID (Academic Freedom and Inclusion through Digitalization) project among Ukrainian HEIs&lt;/p&gt;&#xA;&lt;p&gt;On February 21, 2024, as part of the implementation of the Erasmus+ AFID project, the Faculty of Economics and Management of WUNU (West Ukrainian  National University) held a training for teachers &amp;ldquo;Implementation of inclusiveness in online courses&amp;rdquo;.&#xA;The training was conducted by the Executive Director of the NGO &amp;ldquo;Civic Synergy&amp;rdquo;, Dr. Sc. (Economics), Prof. Oleksandr Dlugopolsky, who spoke about the mission, purpose, goals and current results of the AFID project for university teachers.&#xA;Special attention was paid to the opportunities for students and teachers provided by the project to strengthen the inclusiveness of asynchronous online courses, the use of specific digital tools in teaching and learning.&#xA;Important thematic directions of international cooperation for the future are outlined, which are designed to contribute to the solution of problems and challenges faced by all participants of the educational process in Ukraine regarding the development of inclusive education&#xA;&lt;br/&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

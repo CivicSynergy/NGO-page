@@ -238,6 +238,7 @@ nav{
   font-weight: 500;
   padding-bottom: 20px;
   margin-bottom: 30px;
+  text-transform: uppercase;
 }
 .blockTitle{
   text-align: center;
@@ -463,4 +464,10 @@ nav{
     margin-top: 4%;
     width: 50%;
   }
+}
+#main-more-button{
+  text-transform: uppercase;
+}
+#header-menu{
+  text-transform: uppercase;
 }
