@@ -47,7 +47,7 @@ cascade:
                   </p>
                 </div>
               </div>
-              <p class="paragraph">The mission of the NGO "Civil Synergy" is to accelerate qualitative changes in the formation of civil society in Ukraine through formal and informal education. Vision – we are convinced that there are real opportunities to turn the mission into reality with the effective unification of the efforts of proactive, socially active, conscious citizens who are dedicated to work aimed at progressive socio-economic changes. 
+              <p class="paragraph">NGO "Civil Synergy" is to accelerate qualitative changes in the formation of civil society in Ukraine through formal and informal education. Vision – we are convinced that there are real opportunities to turn the mission into reality with the effective unification of the efforts of proactive, socially active, conscious citizens who are dedicated to work aimed at progressive socio-economic changes.
               </p>
             </div>
             <h1 class="blockTitle" id="about-us-link">ABOUT US</h1>
@@ -57,8 +57,7 @@ cascade:
                 <img src="images/about us.png" id="aboutUsImage" alt="about us"/>
               </div>
               <p class="paragraph">
-                The mission of the NGO "Civil Synergy" is to drive meaningful changes in the development of civil society in Ukraine by promoting both formal and informal education. Through education, we aim to empower individuals to become active participants in shaping a democratic and inclusive society.<br/><br/>
-                Our vision is based on the belief that this mission can be achieved through the collective efforts of proactive, socially conscious citizens. By uniting those committed to progressive socio-economic changes, we can create a society rooted in collaboration, resilience, and shared responsibility.<br/>
+                Civic Synergy is a non-governmental organization (NGO) founded in 2019 to promote the development of strong and self-sufficient communities in Ukraine. We believe that real change begins with each individual, with their active participation in the life of their city or village. This includes providing support and resources for internally displaced people (IDPs) and veterans who need assistance reintegrating into society.<br/>
               </p>
             </div>
             <h1 class="blockTitle" id="our-mission-link">OUR MISSION</h1>
@@ -96,11 +95,7 @@ cascade:
                   </p>
                 </div>
               </div>
-              <p class="paragraph">At the heart of our work is the idea of unlocking the potential of every citizen.
-                 We believe that investing in human capital is the best investment in the future of the country. 
-                 That is why we organize educational programs and training aimed at developing leadership qualities, 
-                 entrepreneurial thinking, and effective communication skills. We also conduct specialized training programs
-                  on grant writing and provide support to IDPs and veterans, helping them access necessary resources and build a new life. 
+              <p class="paragraph">At the heart of our work is the idea of unlocking the potential of every citizen. We believe that investing in human capital is the best investment in the future of the country. That is why we organize educational programs and training aimed at developing leadership qualities, entrepreneurial thinking, and effective communication skills. We also conduct specialized training programs on grant writing and provide support to IDPs and veterans, helping them access necessary resources and build a new life.
               </p>
             </div>
             <h1 class="blockTitle" id="community-center-link">Center for Sustainable Community Development </h1>

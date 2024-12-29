@@ -13,8 +13,8 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ukr"
-                href="http://localhost:1313/ukr/post/post-1/"
+                hreflang="uk"
+                href="http://localhost:1313/uk/post/post-1/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -28,8 +28,8 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ukr"
-                href="http://localhost:1313/ukr/tags/afid-erasmus&#43;cbhe/"
+                hreflang="uk"
+                href="http://localhost:1313/uk/tags/afid-erasmus&#43;cbhe/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -48,8 +48,8 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ukr"
-                href="http://localhost:1313/ukr/post/post-5/"
+                hreflang="uk"
+                href="http://localhost:1313/uk/post/post-5/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -93,8 +93,8 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ukr"
-                href="http://localhost:1313/ukr/post/post-7/"
+                hreflang="uk"
+                href="http://localhost:1313/uk/post/post-7/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -123,8 +123,8 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ukr"
-                href="http://localhost:1313/ukr/tags/erasmus&#43;-afid/"
+                hreflang="uk"
+                href="http://localhost:1313/uk/tags/erasmus&#43;-afid/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -143,8 +143,8 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ukr"
-                href="http://localhost:1313/ukr/post/post-2/"
+                hreflang="uk"
+                href="http://localhost:1313/uk/post/post-2/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -188,8 +188,8 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ukr"
-                href="http://localhost:1313/ukr/tags/ms-teams/"
+                hreflang="uk"
+                href="http://localhost:1313/uk/tags/ms-teams/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -208,8 +208,8 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ukr"
-                href="http://localhost:1313/ukr/"
+                hreflang="uk"
+                href="http://localhost:1313/uk/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -233,8 +233,8 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ukr"
-                href="http://localhost:1313/ukr/post/post-6/"
+                hreflang="uk"
+                href="http://localhost:1313/uk/post/post-6/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -253,8 +253,8 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ukr"
-                href="http://localhost:1313/ukr/post/post-4/"
+                hreflang="uk"
+                href="http://localhost:1313/uk/post/post-4/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -268,8 +268,8 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ukr"
-                href="http://localhost:1313/ukr/post/post-3/"
+                hreflang="uk"
+                href="http://localhost:1313/uk/post/post-3/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -293,8 +293,8 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ukr"
-                href="http://localhost:1313/ukr/tags/"
+                hreflang="uk"
+                href="http://localhost:1313/uk/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -358,8 +358,8 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ukr"
-                href="http://localhost:1313/ukr/post/"
+                hreflang="uk"
+                href="http://localhost:1313/uk/post/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -371,14 +371,24 @@
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="http://localhost:1313/uk/reports/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/reports/"
+                />
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ukr"
-                href="http://localhost:1313/ukr/categories/"
+                hreflang="uk"
+                href="http://localhost:1313/uk/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -389,5 +399,15 @@
     <loc>http://localhost:1313/projects/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="http://localhost:1313/uk/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/projects/"
+                />
   </url>
 </urlset>
