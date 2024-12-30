@@ -1,5 +1,5 @@
 ---
-title: "NGO “Civil Synergy”"
+title: "NGO “Civic Synergy”"
 
 description: ""
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
@@ -47,7 +47,7 @@ cascade:
                   </p>
                 </div>
               </div>
-              <p class="paragraph">NGO "Civil Synergy" is to accelerate qualitative changes in the formation of civil society in Ukraine through formal and informal education. Vision – we are convinced that there are real opportunities to turn the mission into reality with the effective unification of the efforts of proactive, socially active, conscious citizens who are dedicated to work aimed at progressive socio-economic changes.
+              <p class="paragraph">NGO "Civic Synergy" is to accelerate qualitative changes in the formation of civil society in Ukraine through formal and informal education. Vision – we are convinced that there are real opportunities to turn the mission into reality with the effective unification of the efforts of proactive, socially active, conscious citizens who are dedicated to work aimed at progressive socio-economic changes.
               </p>
             </div>
             <h1 class="blockTitle" id="about-us-link">ABOUT US</h1>
@@ -135,13 +135,13 @@ cascade:
                   </div>
                </div>
                <div id="teamMemberBlockContent">
-                  <a href="">
+                  <a href="/static/cvs/Founders/Juriy Ivashuk/en.pdf" target="blank">
                     <img src="/images/Team/Founders/Yuriy Ivashuk.jpg" class="teamMemberCVPhoto" alt="Founder"/>
                   </a>
                   <p id="MemberName">Yuriy Ivashuk</p>
                   <p id="MemberPosition">Chairman of the supervisory board</p>
                   <div id="memberSocialMedia">
-                  <a href="" target="blank"><img src="/images/SocialMediaIcons/linkedIn.png" id="socialMediaIcon" alt="LinkedIn"/></a>
+                  <a href="http://linkedin.com/in/yurii-ivashuk-48776278" target="blank"><img src="/images/SocialMediaIcons/linkedIn.png" id="socialMediaIcon" alt="LinkedIn"/></a>
                   <a href="" target="blank"><img src="/images/SocialMediaIcons/X.png" id="socialMediaIcon" alt="X"/></a>
                   </div>
                </div>
@@ -150,7 +150,7 @@ cascade:
               <hr class="separator"/>
               <div class="teamMemberBoard" >
                <div id="teamMemberBlockContent">
-                  <a href="/cvs/Volunteers/Maksym Bozhok.pdf" target="blank">
+                  <a href="/cvs/Volunteers/Maksym Bozhok/en.pdf" target="blank">
                     <img src="/images/Team/Members/Maksym Bozhok.png" class="teamMemberCVPhoto" alt="Founder"/>
                   </a>
                   <p id="MemberName">Maksym Bozhok</p>
