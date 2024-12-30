@@ -135,7 +135,7 @@ cascade:
                   </div>
                </div>
                <div id="teamMemberBlockContent">
-                  <a href="">
+                  <a href="/cvs/Founders/Juriy Ivashuk/uk.pdf" target="blank">
                     <img src="/images/Team/Founders/Yuriy Ivashuk.jpg" class="teamMemberCVPhoto" alt="Founder"/>
                   </a>
                   <p id="MemberName">Івашук Юрій</p>
@@ -150,14 +150,14 @@ cascade:
               <hr class="separator"/>
               <div class="teamMemberBoard" >
                <div id="teamMemberBlockContent">
-                  <a href="/cvs/Volunteers/Maksym Bozhok.pdf" target="blank">
+                  <a href="/cvs/Volunteers/Maksym Bozhok/uk.pdf" target="blank">
                     <img src="/images/Team/Members/Maksym Bozhok.png" class="teamMemberCVPhoto" alt="Founder"/>
                   </a>
                   <p id="MemberName">Божок Максим</p>
                   <p id="MemberPosition">Волонтер</p>
                   <div id="memberSocialMedia">
                   <a href="" target="blank"><img src="/images/SocialMediaIcons/telegram.png" id="socialMediaIcon" alt="LinkedIn"/></a>
-                  <a href="" target="blank"><img src="/images/SocialMediaIcons/instagram.png" id="socialMediaIcon" alt="Instagram"/></a>
+                  <a href="https://www.instagram.com/maaabooooooo?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="blank"><img src="/images/SocialMediaIcons/instagram.png" id="socialMediaIcon" alt="Instagram"/></a>
                   </div>
                </div>
               </div>
