@@ -177,6 +177,8 @@ nav{
   justify-content: center;
   text-align: center;
   padding: 0px;
+  font-family: 'Rubik', sans-serif;
+  font-weight: 200;
   margin-left: 15%;
   margin-right: 15%;
   color: #3b3b3b;
@@ -203,8 +205,9 @@ nav{
   left:0;
 }
 .main-head-h4{
+  font-weight: 500;
   margin-left: 2.5dvh;
-  border-bottom: 1px solid #3b3b3b51;
+  font-size: large;
   text-decoration: none;
 }
 @media only screen and (max-width: 940px) {
@@ -315,7 +318,7 @@ nav{
   text-transform: uppercase;
   font-family: 'Montserrat', sans-serif;
   font-weight: 500;
-  font-size:x-large;
+  font-size:23px;
 }
 .images{
   margin: auto;
@@ -353,17 +356,11 @@ nav{
   }
 }
 @media only screen and (max-width: 940px) {
-  #logoContent p{
-    font-size: 1.3rem;
-  }
   .blockTitle{
     font-size: 35px;
   }
 }
 @media only screen and (max-width: 600px) {
-  #logoContent p{
-    font-size: 1.2rem;
-  }
   .blockTitle{
    font-size: 30px;
   }
@@ -473,5 +470,13 @@ nav{
     margin: auto;
     margin-top: 4%;
     width: 50%;
+  }
+  #logoContent p{
+    font-size: 18px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  #logoContent p{
+    font-size: 14px;
   }
 }
