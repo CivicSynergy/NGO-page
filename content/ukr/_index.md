@@ -141,7 +141,7 @@ cascade:
                   <p id="MemberName">Івашук Юрій</p>
                   <p id="MemberPosition">Голова наглядової ради</p>
                   <div id="memberSocialMedia">
-                  <a href="" target="blank"><img src="/images/SocialMediaIcons/linkedIn.png" id="socialMediaIcon" alt="LinkedIn"/></a>
+                  <a href="http://linkedin.com/in/yurii-ivashuk-48776278" target="blank"><img src="/images/SocialMediaIcons/linkedIn.png" id="socialMediaIcon" alt="LinkedIn"/></a>
                   <a href="" target="blank"><img src="/images/SocialMediaIcons/X.png" id="socialMediaIcon" alt="X"/></a>
                   </div>
                </div>
@@ -162,5 +162,4 @@ cascade:
                </div>
               </div>
           </div>
-
   </article>
