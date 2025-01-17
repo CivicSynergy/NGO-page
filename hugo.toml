@@ -1,5 +1,5 @@
 title = "NGO “Civic Synergy”"
-baseURL = "https://vampire7432804732985734985743948.github.io/NGO-page/"
+baseURL = "https://gohugo-theme-ananke.pages.dev"
 theme = "ananke"
 resourceDir = "../resources"
 publishDir = "docs"
