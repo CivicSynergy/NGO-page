@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on NGO “Civic Synergy”</title>
-    <link>https://vampire7432804732985734985743948.github.io/NGO-page/projects/</link>
+    <link>http://localhost:1313/NGO-page/projects/</link>
     <description>Recent content in Projects on NGO “Civic Synergy”</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <atom:link href="https://vampire7432804732985734985743948.github.io/NGO-page/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/NGO-page/projects/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
