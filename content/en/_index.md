@@ -35,13 +35,13 @@ cascade:
                   </p>
                 </div>
                 <div id="logoContent">
-                  <img src="{{ .Site.BaseURL }}images/Icons/digitalization.png" alt="idea" class="main-images">
+                  <img src="images/Icons/gender.png" alt="idea" class="main-images">
                   <p>
                     gender equality
                   </p>
                 </div>
                 <div id="logoContent">
-                  <img src="{{ .Site.BaseURL }}images/Icons/digitalization.png" alt="idea" class="main-images"/>
+                  <img src="images/Icons/digitalization.png" img src="{{ .Site.BaseURL }}images/Icons/digitalization.png" alt="idea" class="main-images">
                   <p>
                     digitalization
                   </p>
