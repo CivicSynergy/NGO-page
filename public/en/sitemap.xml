@@ -2,412 +2,412 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/academic-freedom/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/academic-freedom/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/post-1/</loc>
-    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk"
-                href="http://localhost:1313/uk/post/post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/post/post-1/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/afid-erasmus&#43;cbhe/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/post/post-1/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:1313/uk/tags/afid-erasmus&#43;cbhe/"
+                href="https://gohugo-theme-ananke.pages.dev/ua/post/post-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/tags/afid-erasmus&#43;cbhe/"
+                href="https://gohugo-theme-ananke.pages.dev/post/post-1/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/afid-project/</loc>
-    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/post/post-5/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/afid-erasmus&#43;cbhe/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:1313/uk/post/post-5/"
+                href="https://gohugo-theme-ananke.pages.dev/ua/tags/afid-erasmus&#43;cbhe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/post/post-5/"
+                href="https://gohugo-theme-ananke.pages.dev/tags/afid-erasmus&#43;cbhe/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/agora-journal/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/afid-project/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/asynchronous-learning/</loc>
-    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/civic-synergy/</loc>
-    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/digital-applications/</loc>
-    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/digital-communication/</loc>
-    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/digital-skills/</loc>
-    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/post/post-7/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/post/post-5/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:1313/uk/post/post-7/"
+                href="https://gohugo-theme-ananke.pages.dev/ua/post/post-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/post/post-7/"
+                href="https://gohugo-theme-ananke.pages.dev/post/post-5/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/digital-tools/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/agora-journal/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/digitalization/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/asynchronous-learning/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/educator-training/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/civic-synergy/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/erasmus&#43;-afid/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/digital-applications/</loc>
+    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/digital-communication/</loc>
+    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/digital-skills/</loc>
+    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gohugo-theme-ananke.pages.dev/post/post-7/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:1313/uk/tags/erasmus&#43;-afid/"
+                href="https://gohugo-theme-ananke.pages.dev/ua/post/post-7/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/tags/erasmus&#43;-afid/"
+                href="https://gohugo-theme-ananke.pages.dev/post/post-7/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/higher-education/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/digital-tools/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/post-2/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/digitalization/</loc>
+    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/educator-training/</loc>
+    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/erasmus&#43;-afid/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:1313/uk/post/post-2/"
+                href="https://gohugo-theme-ananke.pages.dev/ua/tags/erasmus&#43;-afid/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/post/post-2/"
+                href="https://gohugo-theme-ananke.pages.dev/tags/erasmus&#43;-afid/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/inclusive-education/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/higher-education/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/innovative-university/</loc>
-    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/international-collaboration/</loc>
-    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/international-conference/</loc>
-    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/international-cooperation/</loc>
-    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/ljubljana-school-of-business/</loc>
-    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/ms-teams/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/post/post-2/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:1313/uk/tags/ms-teams/"
+                href="https://gohugo-theme-ananke.pages.dev/ua/post/post-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/tags/ms-teams/"
+                href="https://gohugo-theme-ananke.pages.dev/post/post-2/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/neet-integration/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/inclusive-education/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/innovative-university/</loc>
+    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/international-collaboration/</loc>
+    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/international-conference/</loc>
+    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/international-cooperation/</loc>
+    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/ljubljana-school-of-business/</loc>
+    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/ms-teams/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:1313/uk/"
+                href="https://gohugo-theme-ananke.pages.dev/ua/tags/ms-teams/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/"
+                href="https://gohugo-theme-ananke.pages.dev/tags/ms-teams/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/online-learning/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/neet-integration/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/polissia-national-university/</loc>
-    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/post/post-6/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:1313/uk/post/post-6/"
+                href="https://gohugo-theme-ananke.pages.dev/ua/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/post/post-6/"
+                href="https://gohugo-theme-ananke.pages.dev/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/project-management/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/online-learning/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/post-4/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/polissia-national-university/</loc>
+    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gohugo-theme-ananke.pages.dev/post/post-6/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:1313/uk/post/post-4/"
+                href="https://gohugo-theme-ananke.pages.dev/ua/post/post-6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/post/post-4/"
+                href="https://gohugo-theme-ananke.pages.dev/post/post-6/"
                 />
   </url><url>
-    <loc>http://localhost:1313/post/post-3/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/project-management/</loc>
+    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gohugo-theme-ananke.pages.dev/post/post-4/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:1313/uk/post/post-3/"
+                href="https://gohugo-theme-ananke.pages.dev/ua/post/post-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/post/post-3/"
+                href="https://gohugo-theme-ananke.pages.dev/post/post-4/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/society-5.0/</loc>
-    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/sustainability/</loc>
-    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/post/post-3/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:1313/uk/tags/"
+                href="https://gohugo-theme-ananke.pages.dev/ua/post/post-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/tags/"
+                href="https://gohugo-theme-ananke.pages.dev/post/post-3/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/teacher-training/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/society-5.0/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/teacher-student-engagement/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/sustainability/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/tnpu/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/</loc>
+    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://gohugo-theme-ananke.pages.dev/ua/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://gohugo-theme-ananke.pages.dev/tags/"
+                />
+  </url><url>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/teacher-training/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/ukrainian-heis/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/teacher-student-engagement/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/universal-design/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/tnpu/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/university-of-alcal%C3%A1/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/ukrainian-heis/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/university-online-courses/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/universal-design/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/virtual-campus/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/university-of-alcal%C3%A1/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/winter-training-school/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/university-online-courses/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/wunu/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/virtual-campus/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/winter-training-school/</loc>
+    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/wunu/</loc>
+    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gohugo-theme-ananke.pages.dev/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:1313/uk/post/"
+                href="https://gohugo-theme-ananke.pages.dev/ua/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/post/"
+                href="https://gohugo-theme-ananke.pages.dev/post/"
                 />
   </url><url>
-    <loc>http://localhost:1313/reports/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/reports/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:1313/uk/reports/"
+                href="https://gohugo-theme-ananke.pages.dev/ua/reports/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/reports/"
+                href="https://gohugo-theme-ananke.pages.dev/reports/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:1313/uk/categories/"
+                href="https://gohugo-theme-ananke.pages.dev/ua/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/categories/"
+                href="https://gohugo-theme-ananke.pages.dev/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/projects/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:1313/uk/projects/"
+                href="https://gohugo-theme-ananke.pages.dev/ua/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/projects/"
+                href="https://gohugo-theme-ananke.pages.dev/projects/"
                 />
   </url>
 </urlset>
