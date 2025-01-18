@@ -1,7 +1,7 @@
 ---
 date: 2024-12-26T00:00:00-05:00
 description: 'Inclusive Digital Education Training under AFID Erasmus+CBHE'
-featured_image: "/images/Posts/Post2/image2.png"
+featured_image: "static/images/Posts/Post2/image2.png"
 tags: ["Inclusive Education", "AFID Erasmus+CBHE", "Civic Synergy", "Innovative University", "Online Learning", "Society 5.0", "Educator Training", "Digital Applications", "Winter Training School"]
 title: 'Inclusive Digital Education Training under AFID Erasmus+CBHE'
 ---
