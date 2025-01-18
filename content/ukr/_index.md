@@ -128,10 +128,6 @@ cascade:
                   </a>
                   <p id="MemberName">Длугопольський Олександр</p>
                   <p id="MemberPosition">Виконавчий директор</p>
-                  <div id="memberSocialMedia">
-                  <a href="" target="blank"><img src="/images/SocialMediaIcons/linkedIn.png" id="socialMediaIcon" alt="LinkedIn"/></a>
-                  <a href="" target="blank"><img src="/images/SocialMediaIcons/instagram.png" id="socialMediaIcon" alt="Instagram"/></a>
-                  </div>
                </div>
                <div id="teamMemberBlockContent">
                   <a href="/cvs/Founders/Juriy Ivashuk/uk.pdf" target="blank">
@@ -139,10 +135,6 @@ cascade:
                   </a>
                   <p id="MemberName">Івашук Юрій</p>
                   <p id="MemberPosition">Голова наглядової ради</p>
-                  <div id="memberSocialMedia">
-                  <a href="http://linkedin.com/in/yurii-ivashuk-48776278" target="blank"><img src="/images/SocialMediaIcons/linkedIn.png" id="socialMediaIcon" alt="LinkedIn"/></a>
-                  <a href="" target="blank"><img src="/images/SocialMediaIcons/X.png" id="socialMediaIcon" alt="X"/></a>
-                  </div>
                </div>
               </div>
               <h1 class="blockTitle" id="community-center-link">ЧЛЕНИ КОМАНДИ</h1>
@@ -154,10 +146,13 @@ cascade:
                   </a>
                   <p id="MemberName">Божок Максим</p>
                   <p id="MemberPosition">Волонтер</p>
-                  <div id="memberSocialMedia">
-                  <a href="" target="blank"><img src="/images/SocialMediaIcons/telegram.png" id="socialMediaIcon" alt="LinkedIn"/></a>
-                  <a href="https://www.instagram.com/maaabooooooo?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="blank"><img src="/images/SocialMediaIcons/instagram.png" id="socialMediaIcon" alt="Instagram"/></a>
-                  </div>
+               </div>
+               <div id="teamMemberBlockContent">
+                  <a href="/cvs/Volunteers/Alina Zhukovska/en.pdf" target="blank">
+                    <img src="/images/Team/Members/Alina Zhukovska.jpg" class="teamMemberCVPhoto" alt="Founder"/>
+                  </a>
+                  <p id="MemberName">Аліна Жуковська</p>
+                  <p id="MemberPosition">Волонтер</p>
                </div>
               </div>
           </div>
