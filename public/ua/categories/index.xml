@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on ГО “Громадська синергія”</title>
-    <link>https://gohugo-theme-ananke.pages.dev/ua/categories/</link>
+    <link>https://civic-synergy.com/ua/categories/</link>
     <description>Recent content in Categories on ГО “Громадська синергія”</description>
     <generator>Hugo</generator>
     <language>uk</language>
-    <atom:link href="https://gohugo-theme-ananke.pages.dev/ua/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://civic-synergy.com/ua/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
