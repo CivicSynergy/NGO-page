@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Проекти on ГО “Громадська синергія”</title>
-    <link>http://localhost:1313/ua/projects/</link>
+    <link>https://gohugo-theme-ananke.pages.dev/ua/projects/</link>
     <description>Recent content in Проекти on ГО “Громадська синергія”</description>
     <generator>Hugo</generator>
     <language>uk</language>
-    <atom:link href="http://localhost:1313/ua/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gohugo-theme-ananke.pages.dev/ua/projects/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

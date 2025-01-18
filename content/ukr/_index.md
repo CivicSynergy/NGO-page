@@ -34,7 +34,7 @@ cascade:
                   </p>
                 </div>
                 <div id="logoContent">
-                  <img src="/images/Icons/gender.png" alt="idea" class="main-images">
+                  <img src="/images/Icons/gender equality.png" alt="idea" class="main-images">
                   <p>
                     гендерна рівність
                   </p>
