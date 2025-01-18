@@ -18,6 +18,8 @@ nav{
 #header-text-box{
   margin:0px;
   font-family: 'Montserrat';
+  text-transform: uppercase;
+  
 }
 #header-menu{
   font-size: smaller;
@@ -354,15 +356,34 @@ nav{
   .imageContainer{
     width: 100%;
   }
+  #logoContent{
+    width: 20dvw;
+  }
 }
 @media only screen and (max-width: 940px) {
   .blockTitle{
     font-size: 35px;
   }
+  #logoContent{
+    width: 25dvw;
+  }
+  #logoContent p{
+    font-size: 28px;
+  }
 }
 @media only screen and (max-width: 600px) {
   .blockTitle{
    font-size: 30px;
+  }
+  .images{
+    flex-direction: column;
+    align-content: center;
+  }
+  #logoContent{
+    width: 50dvw;
+  }
+  #logoContent p{
+    font-size: 20px;
   }
 }
 .post-button{
@@ -424,6 +445,7 @@ nav{
   width: 20%;
   background-color: white;
   border-radius: 10px;
+  padding-bottom: 2%;
 }
 #memberSocialMedia{
   display: flex;
@@ -470,13 +492,5 @@ nav{
     margin: auto;
     margin-top: 4%;
     width: 50%;
-  }
-  #logoContent p{
-    font-size: 18px;
-  }
-}
-@media only screen and (max-width: 600px) {
-  #logoContent p{
-    font-size: 14px;
   }
 }

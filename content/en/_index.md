@@ -129,10 +129,6 @@ cascade:
                   </a>
                   <p id="MemberName">Oleksandr Dlugopolsky</p>
                   <p id="MemberPosition">Executive director</p>
-                  <div id="memberSocialMedia">
-                  <a href="" target="blank"><img src="/images/SocialMediaIcons/linkedIn.png" id="socialMediaIcon" alt="LinkedIn"/></a>
-                  <a href="" target="blank"><img src="/images/SocialMediaIcons/instagram.png" id="socialMediaIcon" alt="Instagram"/></a>
-                  </div>
                </div>
                <div id="teamMemberBlockContent">
                   <a href="/cvs/Founders/Juriy Ivashuk/en.pdf" target="blank">
@@ -140,10 +136,6 @@ cascade:
                   </a>
                   <p id="MemberName">Yuriy Ivashuk</p>
                   <p id="MemberPosition">Chairman of the supervisory board</p>
-                  <div id="memberSocialMedia">
-                  <a href="http://linkedin.com/in/yurii-ivashuk-48776278" target="blank"><img src="/images/SocialMediaIcons/linkedIn.png" id="socialMediaIcon" alt="LinkedIn"/></a>
-                  <a href="" target="blank"><img src="/images/SocialMediaIcons/X.png" id="socialMediaIcon" alt="X"/></a>
-                  </div>
                </div>
               </div>
               <h1 class="blockTitle" id="community-center-link">TEAM MEMBERS</h1>
@@ -155,10 +147,6 @@ cascade:
                   </a>
                   <p id="MemberName">Maksym Bozhok</p>
                   <p id="MemberPosition">Volunteer</p>
-                  <div id="memberSocialMedia">
-                  <a href="" target="blank"><img src="/images/SocialMediaIcons/telegram.png" id="socialMediaIcon" alt="LinkedIn"/></a>
-                  <a href="https://www.instagram.com/maaabooooooo?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="blank"><img src="/images/SocialMediaIcons/instagram.png" id="socialMediaIcon" alt="Instagram"/></a>
-                  </div>
                </div>
                <div id="teamMemberBlockContent">
                   <a href="/cvs/Volunteers/Alina Zhukovska/en.pdf" target="blank">
@@ -166,10 +154,6 @@ cascade:
                   </a>
                   <p id="MemberName">Alina Zhukovska</p>
                   <p id="MemberPosition">Volunteer</p>
-                  <div id="memberSocialMedia">
-                  <a href="" target="blank"><img src="/images/SocialMediaIcons/telegram.png" id="socialMediaIcon" alt="LinkedIn"/></a>
-                  <a href="https://www.instagram.com/maaabooooooo?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="blank"><img src="/images/SocialMediaIcons/instagram.png" id="socialMediaIcon" alt="Instagram"/></a>
-                  </div>
                </div>
                </div class="teamMemberBoard">
               </div>
