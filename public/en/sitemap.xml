@@ -2,412 +2,412 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://civic-synergy.com/tags/academic-freedom/</loc>
+    <loc>http://localhost:57565/tags/academic-freedom/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://civic-synergy.com/post/post-1/</loc>
-    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk"
-                href="https://civic-synergy.com/ua/post/post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://civic-synergy.com/post/post-1/"
-                />
-  </url><url>
-    <loc>https://civic-synergy.com/tags/afid-erasmus&#43;cbhe/</loc>
+    <loc>http://localhost:57565/post/post-1/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="https://civic-synergy.com/ua/tags/afid-erasmus&#43;cbhe/"
+                href="http://localhost:57565/ua/post/post-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://civic-synergy.com/tags/afid-erasmus&#43;cbhe/"
+                href="http://localhost:57565/post/post-1/"
                 />
   </url><url>
-    <loc>https://civic-synergy.com/tags/afid-project/</loc>
-    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://civic-synergy.com/post/post-5/</loc>
+    <loc>http://localhost:57565/tags/afid-erasmus&#43;cbhe/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="https://civic-synergy.com/ua/post/post-5/"
+                href="http://localhost:57565/ua/tags/afid-erasmus&#43;cbhe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://civic-synergy.com/post/post-5/"
+                href="http://localhost:57565/tags/afid-erasmus&#43;cbhe/"
                 />
   </url><url>
-    <loc>https://civic-synergy.com/tags/agora-journal/</loc>
+    <loc>http://localhost:57565/tags/afid-project/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://civic-synergy.com/tags/asynchronous-learning/</loc>
-    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://civic-synergy.com/tags/civic-synergy/</loc>
-    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://civic-synergy.com/tags/digital-applications/</loc>
-    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://civic-synergy.com/tags/digital-communication/</loc>
-    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://civic-synergy.com/tags/digital-skills/</loc>
-    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://civic-synergy.com/post/post-7/</loc>
+    <loc>http://localhost:57565/post/post-5/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="https://civic-synergy.com/ua/post/post-7/"
+                href="http://localhost:57565/ua/post/post-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://civic-synergy.com/post/post-7/"
+                href="http://localhost:57565/post/post-5/"
                 />
   </url><url>
-    <loc>https://civic-synergy.com/tags/digital-tools/</loc>
+    <loc>http://localhost:57565/tags/agora-journal/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://civic-synergy.com/tags/digitalization/</loc>
+    <loc>http://localhost:57565/tags/asynchronous-learning/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://civic-synergy.com/tags/educator-training/</loc>
+    <loc>http://localhost:57565/tags/civic-synergy/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://civic-synergy.com/tags/erasmus&#43;-afid/</loc>
+    <loc>http://localhost:57565/tags/digital-applications/</loc>
+    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:57565/tags/digital-communication/</loc>
+    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:57565/tags/digital-skills/</loc>
+    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:57565/post/post-7/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="https://civic-synergy.com/ua/tags/erasmus&#43;-afid/"
+                href="http://localhost:57565/ua/post/post-7/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://civic-synergy.com/tags/erasmus&#43;-afid/"
+                href="http://localhost:57565/post/post-7/"
                 />
   </url><url>
-    <loc>https://civic-synergy.com/tags/higher-education/</loc>
+    <loc>http://localhost:57565/tags/digital-tools/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://civic-synergy.com/post/post-2/</loc>
+    <loc>http://localhost:57565/tags/digitalization/</loc>
+    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:57565/tags/educator-training/</loc>
+    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:57565/tags/erasmus&#43;-afid/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="https://civic-synergy.com/ua/post/post-2/"
+                href="http://localhost:57565/ua/tags/erasmus&#43;-afid/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://civic-synergy.com/post/post-2/"
+                href="http://localhost:57565/tags/erasmus&#43;-afid/"
                 />
   </url><url>
-    <loc>https://civic-synergy.com/tags/inclusive-education/</loc>
+    <loc>http://localhost:57565/tags/higher-education/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://civic-synergy.com/tags/innovative-university/</loc>
-    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://civic-synergy.com/tags/international-collaboration/</loc>
-    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://civic-synergy.com/tags/international-conference/</loc>
-    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://civic-synergy.com/tags/international-cooperation/</loc>
-    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://civic-synergy.com/tags/ljubljana-school-of-business/</loc>
-    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://civic-synergy.com/tags/ms-teams/</loc>
+    <loc>http://localhost:57565/post/post-2/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="https://civic-synergy.com/ua/tags/ms-teams/"
+                href="http://localhost:57565/ua/post/post-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://civic-synergy.com/tags/ms-teams/"
+                href="http://localhost:57565/post/post-2/"
                 />
   </url><url>
-    <loc>https://civic-synergy.com/tags/neet-integration/</loc>
+    <loc>http://localhost:57565/tags/inclusive-education/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://civic-synergy.com/</loc>
+    <loc>http://localhost:57565/tags/innovative-university/</loc>
+    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:57565/tags/international-collaboration/</loc>
+    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:57565/tags/international-conference/</loc>
+    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:57565/tags/international-cooperation/</loc>
+    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:57565/tags/ljubljana-school-of-business/</loc>
+    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:57565/tags/ms-teams/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="https://civic-synergy.com/ua/"
+                href="http://localhost:57565/ua/tags/ms-teams/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://civic-synergy.com/"
+                href="http://localhost:57565/tags/ms-teams/"
                 />
   </url><url>
-    <loc>https://civic-synergy.com/tags/online-learning/</loc>
+    <loc>http://localhost:57565/tags/neet-integration/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://civic-synergy.com/tags/polissia-national-university/</loc>
-    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://civic-synergy.com/post/post-6/</loc>
+    <loc>http://localhost:57565/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="https://civic-synergy.com/ua/post/post-6/"
+                href="http://localhost:57565/ua/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://civic-synergy.com/post/post-6/"
+                href="http://localhost:57565/"
                 />
   </url><url>
-    <loc>https://civic-synergy.com/tags/project-management/</loc>
+    <loc>http://localhost:57565/tags/online-learning/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://civic-synergy.com/post/post-4/</loc>
+    <loc>http://localhost:57565/tags/polissia-national-university/</loc>
+    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:57565/post/post-6/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="https://civic-synergy.com/ua/post/post-4/"
+                href="http://localhost:57565/ua/post/post-6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://civic-synergy.com/post/post-4/"
+                href="http://localhost:57565/post/post-6/"
                 />
   </url><url>
-    <loc>https://civic-synergy.com/post/post-3/</loc>
+    <loc>http://localhost:57565/tags/project-management/</loc>
+    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:57565/post/post-4/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="https://civic-synergy.com/ua/post/post-3/"
+                href="http://localhost:57565/ua/post/post-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://civic-synergy.com/post/post-3/"
+                href="http://localhost:57565/post/post-4/"
                 />
   </url><url>
-    <loc>https://civic-synergy.com/tags/society-5.0/</loc>
-    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://civic-synergy.com/tags/sustainability/</loc>
-    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://civic-synergy.com/tags/</loc>
+    <loc>http://localhost:57565/post/post-3/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="https://civic-synergy.com/ua/tags/"
+                href="http://localhost:57565/ua/post/post-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://civic-synergy.com/tags/"
+                href="http://localhost:57565/post/post-3/"
                 />
   </url><url>
-    <loc>https://civic-synergy.com/tags/teacher-training/</loc>
+    <loc>http://localhost:57565/tags/society-5.0/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://civic-synergy.com/tags/teacher-student-engagement/</loc>
+    <loc>http://localhost:57565/tags/sustainability/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://civic-synergy.com/tags/tnpu/</loc>
+    <loc>http://localhost:57565/tags/</loc>
+    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="http://localhost:57565/ua/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:57565/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:57565/tags/teacher-training/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://civic-synergy.com/tags/ukrainian-heis/</loc>
+    <loc>http://localhost:57565/tags/teacher-student-engagement/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://civic-synergy.com/tags/universal-design/</loc>
+    <loc>http://localhost:57565/tags/tnpu/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://civic-synergy.com/tags/university-of-alcal%C3%A1/</loc>
+    <loc>http://localhost:57565/tags/ukrainian-heis/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://civic-synergy.com/tags/university-online-courses/</loc>
+    <loc>http://localhost:57565/tags/universal-design/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://civic-synergy.com/tags/virtual-campus/</loc>
+    <loc>http://localhost:57565/tags/university-of-alcal%C3%A1/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://civic-synergy.com/tags/winter-training-school/</loc>
+    <loc>http://localhost:57565/tags/university-online-courses/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://civic-synergy.com/tags/wunu/</loc>
+    <loc>http://localhost:57565/tags/virtual-campus/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://civic-synergy.com/post/</loc>
+    <loc>http://localhost:57565/tags/winter-training-school/</loc>
+    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:57565/tags/wunu/</loc>
+    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:57565/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="https://civic-synergy.com/ua/post/"
+                href="http://localhost:57565/ua/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://civic-synergy.com/post/"
+                href="http://localhost:57565/post/"
                 />
   </url><url>
-    <loc>https://civic-synergy.com/reports/</loc>
+    <loc>http://localhost:57565/reports/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="https://civic-synergy.com/ua/reports/"
+                href="http://localhost:57565/ua/reports/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://civic-synergy.com/reports/"
+                href="http://localhost:57565/reports/"
                 />
   </url><url>
-    <loc>https://civic-synergy.com/categories/</loc>
+    <loc>http://localhost:57565/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="https://civic-synergy.com/ua/categories/"
+                href="http://localhost:57565/ua/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://civic-synergy.com/categories/"
+                href="http://localhost:57565/categories/"
                 />
   </url><url>
-    <loc>https://civic-synergy.com/projects/</loc>
+    <loc>http://localhost:57565/projects/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="https://civic-synergy.com/ua/projects/"
+                href="http://localhost:57565/ua/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://civic-synergy.com/projects/"
+                href="http://localhost:57565/projects/"
                 />
   </url>
 </urlset>
