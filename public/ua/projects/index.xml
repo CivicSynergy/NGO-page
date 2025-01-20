@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Проекти on ГО “Громадська синергія”</title>
-    <link>https://civic-synergy.com/ua/projects/</link>
+    <link>http://localhost:57565/ua/projects/</link>
     <description>Recent content in Проекти on ГО “Громадська синергія”</description>
     <generator>Hugo</generator>
     <language>uk</language>
-    <atom:link href="https://civic-synergy.com/ua/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:57565/ua/projects/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
