@@ -1,11 +1,12 @@
 ---
-title: "ГО Громадська синергія"
+title: 'ГО "Громадська синергія"'
 
 description: ""
-theme_version: '2.8.2'
+theme_version: "2.8.2"
 cascade:
-  featured_image: '/images/Main-preview1.jpg'
+  featured_image: "/images/Main-preview1.jpg"
 ---
+
 <hr class="main-hr">
 <div class="main-head"><h4 class="main-head-h4"><a href="#about-us-link" class="main-link">ПРО НАС</a></h4><h4 class="main-head-h4"><a href="#our-mission-link" class="main-link">НАША МІСІЯ</a></h4><h4 class="main-head-h4"><a href="#community-center-link" class="main-link">ЦЕНТР ГРОМАДИ</a></h4><h4 class="main-head-h4"><a href="#issues-link" class="main-link">НАПРЯМКИ РОБОТИ</a></h4><h4 class="main-head-h4"><a href="#footer-link" class="main-link">КОНТАКТИ</a></h4></div>
 
