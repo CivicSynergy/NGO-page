@@ -156,8 +156,8 @@ featured_image: "/images/Main-preview2.jpg"
                   <p id="MemberPosition">Expert</p>
                </div>
                <div id="teamMemberBlockContent">
-                  <a href="\cvs\Volunteers\Bondarevskaya\CV Bondarevskaya.pdf" target="blank">
-                    <img src="\images\Team\Members\Bondarevskaya.jpg" class="teamMemberCVPhoto" alt="Founder"/>
+                  <a href="/cvs/Volunteers/Bondarevskaya/CV Bondarevskaya.pdf" target="blank">
+                    <img src="/images/Team/Members/Bondarevskaya.jpg" class="teamMemberCVPhoto" alt="Founder"/>
                   </a>
                   <p id="MemberName">Irina Bondarevskaya</p>
                   <p id="MemberPosition">Expert</p>
