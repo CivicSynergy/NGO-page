@@ -156,7 +156,7 @@ cascade:
                   <p id="MemberPosition">Експерт</p>
                </div>
                <div id="teamMemberBlockContent">
-                  <a href="\cvs\Volunteers\Bondarevskaya" target="blank">
+                  <a href="\cvs\Volunteers\Bondarevskaya\CV Bondarevskaya.pdf" target="blank">
                     <img src="\images\Team\Members\Bondarevskaya.jpg" class="teamMemberCVPhoto" alt="Founder"/>
                   </a>
                   <p id="MemberName">Ірина Бондаревская</p>
