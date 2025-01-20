@@ -153,7 +153,14 @@ cascade:
                     <img src="/images/Team/Members/Alina Zhukovska.jpg" class="teamMemberCVPhoto" alt="Founder"/>
                   </a>
                   <p id="MemberName">Аліна Жуковська</p>
-                  <p id="MemberPosition">Волонтер</p>
+                  <p id="MemberPosition">Експерт</p>
+               </div>
+               <div id="teamMemberBlockContent">
+                  <a href="\cvs\Volunteers\Bondarevskaya" target="blank">
+                    <img src="\images\Team\Members\Bondarevskaya.jpg" class="teamMemberCVPhoto" alt="Founder"/>
+                  </a>
+                  <p id="MemberName">Ірина Бондаревская</p>
+                  <p id="MemberPosition">Експерт</p>
                </div>
               </div>
           </div>

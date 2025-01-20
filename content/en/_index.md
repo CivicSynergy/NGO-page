@@ -3,9 +3,10 @@ title: "NGO “Civic Synergy”"
 
 description: ""
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
-theme_version: '2.8.2'
-featured_image: '/images/Main-preview2.jpg'
+theme_version: "2.8.2"
+featured_image: "/images/Main-preview2.jpg"
 ---
+
 <hr class="main-hr">
 <div class="main-head"><h4 class="main-head-h4"><a href="#about-us-link" class="main-link">ABOUT US</a></h4><h4 class="main-head-h4"><a href="#our-mission-link" class="main-link">OUR MISSION</a></h4><h4 class="main-head-h4"><a href="#community-center-link" class="main-link">COMMUNITY CENTER</a></h4><h4 class="main-head-h4"><a href="#issues-link" class="main-link">RANGE OF ISSUES</a></h4><h4 class="main-head-h4"><a href="#footer-link" class="main-link">CONTACT US</a></h4></div>
 
@@ -152,9 +153,16 @@ featured_image: '/images/Main-preview2.jpg'
                     <img src="/images/Team/Members/Alina Zhukovska.jpg" class="teamMemberCVPhoto" alt="Founder"/>
                   </a>
                   <p id="MemberName">Alina Zhukovska</p>
-                  <p id="MemberPosition">Volunteer</p>
+                  <p id="MemberPosition">Expert</p>
                </div>
                </div class="teamMemberBoard">
+               <div id="teamMemberBlockContent">
+                  <a href="\cvs\Volunteers\Bondarevskaya" target="blank">
+                    <img src="\images\Team\Members\Bondarevskaya.jpg" class="teamMemberCVPhoto" alt="Founder"/>
+                  </a>
+                  <p id="MemberName">Irina Bondarevskaya</p>
+                  <p id="MemberPosition">Expert</p>
+              </div>
               </div>
           </div>
 
