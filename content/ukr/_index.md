@@ -138,30 +138,41 @@ cascade:
                   <p id="MemberPosition">Голова наглядової ради</p>
                </div>
               </div>
-              <h1 class="blockTitle" id="community-center-link">ЧЛЕНИ КОМАНДИ</h1>
+              <h1 class="blockTitle" id="community-center-link">Експерти</h1>
               <hr class="separator"/>
-              <div class="teamMemberBoard" >
-               <div id="teamMemberBlockContent">
-                  <a href="/cvs/Volunteers/Maksym Bozhok/uk.pdf" target="blank">
-                    <img src="/images/Team/Members/Maksym Bozhok.png" class="teamMemberCVPhoto" alt="Founder"/>
-                  </a>
-                  <p id="MemberName">Божок Максим</p>
-                  <p id="MemberPosition">Волонтер</p>
-               </div>
-               <div id="teamMemberBlockContent">
-                  <a href="/cvs/Volunteers/Alina Zhukovska/en.pdf" target="blank">
-                    <img src="/images/Team/Members/Alina Zhukovska.jpg" class="teamMemberCVPhoto" alt="Founder"/>
-                  </a>
-                  <p id="MemberName">Аліна Жуковська</p>
-                  <p id="MemberPosition">Експерт</p>
-               </div>
-               <div id="teamMemberBlockContent">
-                  <a href="/cvs/Volunteers/Bondarevskaya/CV Bondarevskaya.pdf" target="blank">
-                    <img src="/images/Team/Members/Bondarevskaya.jpg" class="teamMemberCVPhoto" alt="Founder"/>
-                  </a>
-                  <p id="MemberName">Ірина Бондаревская</p>
-                  <p id="MemberPosition">Експерт</p>
-               </div>
-              </div>
+                <div class="teamMemberBoard" >
+                  <div id="teamMemberBlockContent">
+                      <a href="/cvs/Volunteers/Alina Zhukovska/en.pdf" target="blank">
+                        <img src="/images/Team/Members/Alina Zhukovska.jpg" class="teamMemberCVPhoto" alt="Founder"/>
+                      </a>
+                      <p id="MemberName">Аліна Жуковська</p>
+                      <p id="MemberPosition">Експерт</p>
+                  </div>
+                  <div id="teamMemberBlockContent">
+                      <a href="/cvs/Volunteers/Bondarevskaya/CV Bondarevskaya.pdf" target="blank">
+                        <img src="/images/Team/Members/Bondarevskaya.jpg" class="teamMemberCVPhoto" alt="Founder"/>
+                      </a>
+                      <p id="MemberName">Ірина Бондаревская</p>
+                      <p id="MemberPosition">Експерт</p>
+                  </div>
+                </div>
+              <h1 class="blockTitle" id="community-center-link">Волонтери</h1>
+              <hr class="separator"/>
+                <div class="teamMemberBoard" >
+                  <div id="teamMemberBlockContent">
+                      <a href="/cvs/Volunteers/Maksym Bozhok/uk.pdf" target="blank">
+                        <img src="/images/Team/Members/Maksym Bozhok.png" class="teamMemberCVPhoto" alt="Founder"/>
+                      </a>
+                      <p id="MemberName">Божок Максим</p>
+                      <p id="MemberPosition">Волонтер</p>
+                  </div>
+                  <div id="teamMemberBlockContent">
+                      <a href="/cvs/Volunteers/Zastavna/CV Zastavna.pdf" target="blank">
+                        <img src="/images/Team/Members/Zastavna.jpg" class="teamMemberCVPhoto" alt="Founder"/>
+                      </a>
+                      <p id="MemberName">Заставна Вікторія</p>
+                      <p id="MemberPosition">Волонтер</p>
+                  </div>
+                </div>
           </div>
   </article>
