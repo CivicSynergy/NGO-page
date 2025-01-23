@@ -127,7 +127,7 @@ featured_image: "/images/Main-preview2.jpg"
                   <a href="/cvs/Founders/Europass Dluhopolskyi.pdf" target="blank">
                     <img src="/images/Team/Founders/Oleksandr Dlugopolsky.jpg" class="teamMemberCVPhoto" alt="Founder"/>
                   </a>
-                  <p id="MemberName">Oleksandr Dlugopolsky</p>
+                  <p id="MemberName">Oleksandr Dluhopolskyi</p>
                   <p id="MemberPosition">Executive director</p>
                </div>
                <div id="teamMemberBlockContent">
@@ -170,7 +170,7 @@ featured_image: "/images/Main-preview2.jpg"
                       <a href="/cvs/Volunteers/Zastavna/CV Zastavna.pdf" target="blank">
                         <img src="/images/Team/Members/Zastavna.jpg" class="teamMemberCVPhoto" alt="Founder"/>
                       </a>
-                      <p id="MemberName">Zastavna Viktoria</p>
+                      <p id="MemberName">Viktoria Zastavna</p>
                       <p id="MemberPosition">Volunteer</p>
                   </div>
                 </div>
