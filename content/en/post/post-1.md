@@ -10,7 +10,7 @@ From November 27 to 29, 2023, a training session dedicated to developing tools f
 
 The training began with a discussion of the technical requirements for creating a multi-institutional inclusive virtual educational campus (MIIVC). The functions, design, interface requirements, tools, and content for educational disciplines within the virtual campus were reviewed. Special attention was given to tools for ensuring inclusivity in the virtual campus.
 
-Dr. Oleksandr Dlugopolskyi, Executive Director of the NGO “Civic Synergy,” conducted a series of training sessions during the event, focusing on the following thematic areas:
+Dr. Oleksandr Dluhopolskyi, Executive Director of the NGO “Civic Synergy,” conducted a series of training sessions during the event, focusing on the following thematic areas:
 
 The essence and specifics of inclusive education in today's context: Challenges and barriers to inclusive education and the role of platforms offering online learning in overcoming them.
 The AFID project student: Identifying the personality of students or potential learners and outlining their individual needs. Understanding student motivation for using inclusive online courses.

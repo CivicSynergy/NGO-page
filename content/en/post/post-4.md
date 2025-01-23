@@ -8,7 +8,7 @@ title: 'Sharing ERASMUS+ AFID Results with Polissia National University'
 
 Dissemination of information about the preliminary results of the ERASMUS+ AFID (Academic Freedom and Inclusion through Digitalization) project among Ukrainian HEIs
 
-  On March 7, 2024, students and academic staff of Polissia National University met with Dr. Sc. (Economics), Prof. Oleksandr Dlugopolsky, Executive Director of the NGO "Civic Synergy". In his speech, Oleksandr Dlugopolsky highlighted the specifics of implementing inclusivity in university online courses, drawing on the experience of the ERASMUS+ CBHE project "AFID – Academic Freedom and Inclusion through Digitalization". 
+  On March 7, 2024, students and academic staff of Polissia National University met with Dr. Sc. (Economics), Prof. Oleksandr Dluhopolskyi, Executive Director of the NGO "Civic Synergy". In his speech, Oleksandr Dluhopolskyi highlighted the specifics of implementing inclusivity in university online courses, drawing on the experience of the ERASMUS+ CBHE project "AFID – Academic Freedom and Inclusion through Digitalization". 
 <br/>
 
 
