@@ -282,6 +282,21 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/ua/post/post-8/</loc>
+    <lastmod>2024-12-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/post/post-8/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="http://localhost:1313/ua/post/post-8/"
+                />
+  </url><url>
     <loc>http://localhost:1313/ua/tags/%D1%81%D1%83%D1%81%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE-5.0/</loc>
     <lastmod>2024-12-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
