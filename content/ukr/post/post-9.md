@@ -1,7 +1,7 @@
 ---
 date: 2025-02-26T00:00:00-05:00
 description: 'Проф. Длугопольський О.В. – Visiting Scholar в University of Milan-Bicocca'
-featured_image: "/images/Posts/Post9/image6.JPG"
+featured_image: "/images/Posts/Post9/image7.JPG"
 tags: ["Erasmus+ AFID", "Цифрові навички", "Інклюзивна освіта", "Онлайн-навчання", "Підготовка викладачів", "MS Teams", "Громадська синергія", "Міжнародна співпраця", "Заклади вищої освіти України"]
 title: 'Проф. Длугопольський О.В. – Visiting Scholar в University of Milan-Bicocca'
 ---
