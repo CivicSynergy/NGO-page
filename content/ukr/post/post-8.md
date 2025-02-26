@@ -10,8 +10,8 @@ title: 'Старт нового проекту ERASMUS+ SUSTED'
 Команди партнерів з університетів країн ЄС (THUAS (Нідерланди), WSEI University (Польща), Danubius University (Словаччина), IDEA Academy (Мальта)) приймали участь дистанційно, тоді як наживо гостинний Житомир та Поліський національний університет (Ректор – д.е.н., проф. Олег Скидан) прийняли команди українських університетів-партнерів та їх координаторів. Під час зустрічі учасники обговорили очікування та візію перших спільних кроків у реалізації проєкту, узгодили стратегію комунікацій та план забезпечення якості.
 <br/>
 
-<img src="/images/Posts/Post8/image1.jpg"/>
-<img src="/images/Posts/Post8/image2.jpg"/>
-<img src="/images/Posts/Post8/image3.jpg"/>
-<img src="/images/Posts/Post8/image5.jpg"/>
-<img src="/images/Posts/Post8/image4.jpg"/>
+<img src="/images/Posts/Post8/image1.JPG"/>
+<img src="/images/Posts/Post8/image2.JPG"/>
+<img src="/images/Posts/Post8/image3.JPG"/>
+<img src="/images/Posts/Post8/image5.JPG"/>
+<img src="/images/Posts/Post8/image4.JPG"/>
