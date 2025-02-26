@@ -11,8 +11,8 @@ Teams of partners from EU universities (THUAS (Netherlands), WSEI University (Po
 <br/>
 
 
-<img src="/images/Posts/Post8/image1.jpg"/>
-<img src="/images/Posts/Post8/image2.jpg"/>
-<img src="/images/Posts/Post8/image3.jpg"/>
-<img src="/images/Posts/Post8/image5.jpg"/>
-<img src="/images/Posts/Post8/image4.jpg"/>
+<img src="/images/Posts/Post8/image1.JPG"/>
+<img src="/images/Posts/Post8/image2.JPG"/>
+<img src="/images/Posts/Post8/image3.JPG"/>
+<img src="/images/Posts/Post8/image5.JPG"/>
+<img src="/images/Posts/Post8/image4.JPG"/>
