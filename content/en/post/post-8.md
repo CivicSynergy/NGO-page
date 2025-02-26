@@ -1,6 +1,6 @@
 ---
 date: 2025-02-26T00:00:00-05:00
-description: 'DigLaunch of the new ERASMUS+ SUSTED project'
+description: 'Launch of the new ERASMUS+ SUSTED project'
 featured_image: "/images/Posts/Post8/image4 - Copy.png"
 tags: ["Erasmus+ AFID", "Digital Skills", "Inclusive Education", "Online Learning", "Teacher Training", "MS Teams", "Civic Synergy", "International Collaboration", "Ukrainian HEIs"]
 title: 'Launch of the new ERASMUS+ SUSTED project'
