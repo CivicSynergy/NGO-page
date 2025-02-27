@@ -1,5 +1,5 @@
 ---
-date: 2025-02-26T00:00:00-05:00
+date: 2025-02-26T00:00:00-06:00
 description: 'Prof. Dluhopolskyi O.V. - Visiting Scholar at the University of Milan-Bicocca'
 featured_image: "/images/Posts/Post9/image7.JPG"
 tags: ["Erasmus+ AFID", "Digital Skills", "Inclusive Education", "Online Learning", "Teacher Training", "MS Teams", "Civic Synergy", "International Collaboration", "Ukrainian HEIs"]
