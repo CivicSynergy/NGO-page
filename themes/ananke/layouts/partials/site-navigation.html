@@ -11,15 +11,51 @@
     <div  class="flex-l items-center" id="header-text-box">
       {{ partial "i18nlist.html" . }}
       {{ if .Site.Menus.main }}
-        <ul  class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
-          {{ range .Site.Menus.main }}
-          <li  class="list f5 f4-ns fw4 dib {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
-            <a id="header-menu" class="hover-blue no-underline green-90" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
-              {{ .Name }}
-            </a>
-          </li>
+      <ul class="pl0 mr3">
+        {{ range .Site.Menus.main }}
+          {{ if eq .Name "Пости" }}
+            <li class="list f5 f4-ns fw4 dib pr3">
+              <a id="header-menu" class="hover-blue no-underline green-90" href="{{ .URL }}">Пости</a>
+            </li>
           {{ end }}
-        </ul>
+        {{ end }}
+        {{ range .Site.Menus.main }}
+          {{ if eq .Name "Звіти" }}
+            <li class="list f5 f4-ns fw4 dib pr3">
+              <a id="header-menu" class="hover-blue no-underline green-90" href="{{ .URL }}">Звіти</a>
+            </li>
+          {{ end }}
+        {{ end }}
+        {{ range .Site.Menus.main }}
+          {{ if eq .Name "Центр громад" }}
+            <li class="list f5 f4-ns fw4 dib pr3">
+              <a id="header-menu" class="hover-blue no-underline green-90" href="{{ .URL }}">Центр громад</a>
+            </li>
+          {{ end }}
+        {{ end }}
+
+        {{ range .Site.Menus.main }}
+          {{ if eq .Name "Posts" }}
+            <li class="list f5 f4-ns fw4 dib pr3">
+              <a id="header-menu" class="hover-blue no-underline green-90" href="{{ .URL }}">Posts</a>
+            </li>
+          {{ end }}
+        {{ end }}
+        {{ range .Site.Menus.main }}
+          {{ if eq .Name "Reports" }}
+            <li class="list f5 f4-ns fw4 dib pr3">
+              <a id="header-menu" class="hover-blue no-underline green-90" href="{{ .URL }}">Reports</a>
+            </li>
+          {{ end }}
+        {{ end }}
+        {{ range .Site.Menus.main }}
+          {{ if eq .Name "Community" }}
+            <li class="list f5 f4-ns fw4 dib pr3">
+              <a id="header-menu" class="hover-blue no-underline green-90" href="{{ .URL }}">Community</a>
+            </li>
+          {{ end }}
+        {{ end }}
+      </ul>      
       {{ end }}
       {{ partialCached "social/follow.html" . }}
     </div>
