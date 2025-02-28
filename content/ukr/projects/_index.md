@@ -1,5 +1,5 @@
 ---
-title: "Проекти"
+title: "Центр громад"
 description:
 cascade:
   featured_image: '/images/Main-preview3.jpg'
