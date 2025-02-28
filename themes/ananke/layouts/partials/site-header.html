@@ -4,7 +4,7 @@
   {{ $featured_image_class := site.Params.featured_image_class | default "cover bg-top" }}
   <header class="{{ $featured_image_class }}" style="background-image: url('{{ $featured_image }}');">
     {{ $cover_dimming_class := site.Params.cover_dimming_class | default "bg-black-60" }}
-    <div class="{{ $cover_dimming_class }}">
+    <div class="{{ $cover_dimming_class }} header-image-container">
       {{ partial "site-navigation.html" .}}
       <div class="tc-l pv4 pv6-l ph3 ph4-ns" id="main-head">
         <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title" id="main-head-text">
