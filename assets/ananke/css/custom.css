@@ -34,6 +34,8 @@ nav{
   height: 86dvh;
 }
 #main-head-text{
+  display: flex;
+  align-items: center;
   margin-top: 30dvh;
   margin-bottom: 3dvh;
 }
@@ -212,6 +214,9 @@ nav{
   font-size: large;
   text-decoration: none;
 }
+.header-image-container{
+  width: 100%;
+}
 @media only screen and (max-width: 940px) {
   .main-head{
     font-size: 0.8em;
@@ -235,6 +240,9 @@ nav{
   .blockContent{
     flex-wrap: wrap;
     margin:1%;
+  }
+  .header-image-container{
+    height: 800px;
   }
 }
 #main-posts-header{
