@@ -8,7 +8,7 @@ featured_image: "/images/Main-preview2.jpg"
 ---
 
 <hr class="main-hr">
-<div class="main-head"><h4 class="main-head-h4"><a href="#about-us-link" class="main-link">ABOUT US</a></h4><h4 class="main-head-h4"><a href="#our-mission-link" class="main-link">OUR MISSION</a></h4><h4 class="main-head-h4"><a href="#community-center-link" class="main-link">COMMUNITY CENTER</a></h4><h4 class="main-head-h4"><a href="#issues-link" class="main-link">RANGE OF ISSUES</a></h4><h4 class="main-head-h4"><a href="#footer-link" class="main-link">CONTACT US</a></h4></div>
+<div class="main-head"><h4 class="main-head-h4"><a href="#about-us-link" class="main-link">ABOUT US</a></h4><h4 class="main-head-h4"><a href="#our-mission-link" class="main-link">OUR MISSION</a></h4><h4 class="main-head-h4"><a href="#community-center-link" class="main-link">PROJECTS</a></h4><h4 class="main-head-h4"><a href="#issues-link" class="main-link">RANGE OF ISSUES</a></h4><h4 class="main-head-h4"><a href="#footer-link" class="main-link">CONTACT US</a></h4></div>
 
   <article>
           <div>
