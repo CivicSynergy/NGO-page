@@ -5,7 +5,7 @@ other = "Ще"
 other = "Усі {{.Title }}"
 
 [recentTitle]
-other = "Нещодавні {{.Title }}"
+other = "Останні {{.Title }}"
 
 [readMore]
 other = "читати далі"

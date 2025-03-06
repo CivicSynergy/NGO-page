@@ -1,5 +1,5 @@
 ---
-title: "NGO “Civic Synergy”"
+title: "NGO Civic Synergy"
 
 description: ""
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
@@ -8,7 +8,8 @@ featured_image: "/images/Main-preview2.jpg"
 ---
 
 <hr class="main-hr">
-<div class="main-head"><h4 class="main-head-h4"><a href="#about-us-link" class="main-link">ABOUT US</a></h4><h4 class="main-head-h4"><a href="#our-mission-link" class="main-link">OUR MISSION</a></h4><h4 class="main-head-h4"><a href="#community-center-link" class="main-link">PROJECTS</a></h4><h4 class="main-head-h4"><a href="#issues-link" class="main-link">RANGE OF ISSUES</a></h4><h4 class="main-head-h4"><a href="#footer-link" class="main-link">CONTACT US</a></h4></div>
+<div class="main-head"><h4 class="main-head-h4"><a href="#issues-link" class="main-link">AREAS OF WORK</a></h4><h4 class="main-head-h4"><a href="#about-us-link" class="main-link">ABOUT US</a></h4><h4 class="main-head-h4"><a href="#our-mission-link" class="main-link">OUR MISSION</a></h4><h4 class="main-head-h4"><a href="#community-center-link" class="main-link">TEAM</a></h4><h4 class="main-head-h4"><a href="#footer-link" class="main-link">CONTACT US</a></h4></div>
+<!-- <h4 class="main-head-h4"><a href="\post\" class="main-link">PROJECTS</a></h4> -->
 
   <article>
           <div>
@@ -47,8 +48,8 @@ featured_image: "/images/Main-preview2.jpg"
                   </p>
                 </div>
               </div>
-              <p class="paragraph">NGO "Civic Synergy" is to accelerate qualitative changes in the formation of civil society in Ukraine through formal and informal education. Vision – we are convinced that there are real opportunities to turn the mission into reality with the effective unification of the efforts of proactive, socially active, conscious citizens who are dedicated to work aimed at progressive socio-economic changes.
-              </p>
+              <!-- <p class="paragraph">NGO "Civic Synergy" is to accelerate qualitative changes in the formation of civil society in Ukraine through formal and informal education. Vision – we are convinced that there are real opportunities to turn the mission into reality with the effective unification of the efforts of proactive, socially active, conscious citizens who are dedicated to work aimed at progressive socio-economic changes.
+              </p> -->
             </div>
             <h1 class="blockTitle" id="about-us-link">ABOUT US</h1>
             <hr class="separator"/>

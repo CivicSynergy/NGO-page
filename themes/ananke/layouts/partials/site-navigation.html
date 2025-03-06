@@ -13,9 +13,9 @@
       {{ if .Site.Menus.main }}
       <ul class="pl0 mr3">
         {{ range .Site.Menus.main }}
-          {{ if eq .Name "Пости" }}
+          {{ if eq .Name "Новини" }}
             <li class="list f5 f4-ns fw4 dib pr3">
-              <a id="header-menu" class="hover-blue no-underline green-90" href="{{ .URL }}">Пости</a>
+              <a id="header-menu" class="hover-blue no-underline green-90" href="{{ .URL }}">Новини</a>
             </li>
           {{ end }}
         {{ end }}
@@ -35,9 +35,9 @@
         {{ end }}
 
         {{ range .Site.Menus.main }}
-          {{ if eq .Name "Posts" }}
+          {{ if eq .Name "News" }}
             <li class="list f5 f4-ns fw4 dib pr3">
-              <a id="header-menu" class="hover-blue no-underline green-90" href="{{ .URL }}">Posts</a>
+              <a id="header-menu" class="hover-blue no-underline green-90" href="{{ .URL }}">News</a>
             </li>
           {{ end }}
         {{ end }}
