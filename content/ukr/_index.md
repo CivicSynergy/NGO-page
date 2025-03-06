@@ -1,5 +1,5 @@
 ---
-title: 'ГО "Громадська синергія"'
+title: 'ГО Громадська синергія'
 
 description: ""
 theme_version: "2.8.2"
@@ -8,8 +8,8 @@ cascade:
 ---
 
 <hr class="main-hr">
-<div class="main-head"><h4 class="main-head-h4"><a href="#about-us-link" class="main-link">ПРО НАС</a></h4><h4 class="main-head-h4"><a href="#our-mission-link" class="main-link">НАША МІСІЯ</a></h4><h4 class="main-head-h4"><a href="#community-center-link" class="main-link">ПРОЕКТИ</a></h4><h4 class="main-head-h4"><a href="#issues-link" class="main-link">НАПРЯМКИ РОБОТИ</a></h4><h4 class="main-head-h4"><a href="#footer-link" class="main-link">КОНТАКТИ</a></h4></div>
-
+<div class="main-head"><h4 class="main-head-h4"><a href="#issues-link" class="main-link">НАПРЯМКИ РОБОТИ</a></h4><h4 class="main-head-h4"><a href="#about-us-link" class="main-link">ПРО НАС</a></h4><h4 class="main-head-h4"><a href="#our-mission-link" class="main-link">НАША МІСІЯ</a></h4><h4 class="main-head-h4"><a href="#community-center-link" class="main-link">КОМАНДА</a></h4><h4 class="main-head-h4"><a href="#footer-link" class="main-link">КОНТАКТИ</a></h4></div>
+<!-- <h4 class="main-head-h4"><a href="#community-center-link" class="main-link">ПРОЕКТИ</a></h4> -->
   <article>
           <div>
             <h1 class="blockTitle">Напрямки роботи</h1>
@@ -47,8 +47,8 @@ cascade:
                   </p>
                 </div>
               </div>
-              <p class="paragraph">ГО «Громадська синергія» – прискорення якісних змін у формуванні громадянського суспільства в Україні через формальну і неформальну освіту. Бачення – ми переконані, що існують реальні можливості втілити місію в реальність за ефективного об’єднання зусиль ініціативних, соціально активних, свідомих громадян, які віддані роботі, спрямованій на прогресивні соціально-економічні зміни.
-              </p>
+              <!-- <p class="paragraph">ГО «Громадська синергія» – прискорення якісних змін у формуванні громадянського суспільства в Україні через формальну і неформальну освіту. Бачення – ми переконані, що існують реальні можливості втілити місію в реальність за ефективного об’єднання зусиль ініціативних, соціально активних, свідомих громадян, які віддані роботі, спрямованій на прогресивні соціально-економічні зміни.
+              </p> -->
             </div>
             <h1 class="blockTitle" id="about-us-link">ПРО НАС</h1>
             <hr class="separator"/>
