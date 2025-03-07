@@ -1,5 +1,5 @@
 ---
-title: 'ГО Громадська синергія'
+title: 'ГО Громадська Синергія'
 
 description: ""
 theme_version: "2.8.2"
