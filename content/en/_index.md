@@ -134,6 +134,13 @@ featured_image: "/images/Main-preview2.jpg"
                       <p id="MemberName">Irina Bondarevskaya</p>
                       <p id="MemberPosition">Expert</p>
                   </div>
+                  <div id="teamMemberBlockContent">
+                      <a href="/cvs/Volunteers/Virkovska A/Virkovska A.pdf" target="blank">
+                        <img src="/images/Team/Members/Virkovska A.jpg" class="teamMemberCVPhoto" alt="Founder"/>
+                      </a>
+                      <p id="MemberName">Anastasia Virkovska</p>
+                      <p id="MemberPosition">Expert</p>
+                  </div>
               </div>
               <h1 class="blockTitle" id="community-center-link">Volunteers</h1>
               <hr class="separator"/>
@@ -150,6 +157,13 @@ featured_image: "/images/Main-preview2.jpg"
                         <img src="/images/Team/Members/Zastavna.jpg" class="teamMemberCVPhoto" alt="Founder"/>
                       </a>
                       <p id="MemberName">Viktoria Zastavna</p>
+                      <p id="MemberPosition">Volunteer</p>
+                  </div>
+                  <div id="teamMemberBlockContent">
+                      <a href="/cvs/Volunteers\ZAZULIAK\CV Resume.pdf" target="blank">
+                        <img src="/images/Team/Members/ZAZULIAK.jpg" class="teamMemberCVPhoto" alt="Founder"/>
+                      </a>
+                      <p id="MemberName">Anastasia Zazuliak</p>
                       <p id="MemberPosition">Volunteer</p>
                   </div>
                 </div>

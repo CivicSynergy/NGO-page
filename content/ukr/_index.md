@@ -133,6 +133,13 @@ cascade:
                       <p id="MemberName">Бондаревская Ірина</p>
                       <p id="MemberPosition">Експерт</p>
                   </div>
+                  <div id="teamMemberBlockContent">
+                      <a href="/cvs/Volunteers/Virkovska A/Virkovska A.pdf" target="blank">
+                        <img src="/images/Team/Members/Virkovska A.jpg" class="teamMemberCVPhoto" alt="Founder"/>
+                      </a>
+                      <p id="MemberName">Вірковська Анастасія</p>
+                      <p id="MemberPosition">Експерт</p>
+                  </div>
                 </div>
               <h1 class="blockTitle" id="community-center-link">Волонтери</h1>
               <hr class="separator"/>
@@ -149,6 +156,13 @@ cascade:
                         <img src="/images/Team/Members/Zastavna.jpg" class="teamMemberCVPhoto" alt="Founder"/>
                       </a>
                       <p id="MemberName">Заставна Вікторія</p>
+                      <p id="MemberPosition">Волонтер</p>
+                  </div>
+                  <div id="teamMemberBlockContent">
+                      <a href="/cvs/Volunteers\ZAZULIAK\CV Resume.pdf" target="blank">
+                        <img src="/images/Team/Members/ZAZULIAK.jpg" class="teamMemberCVPhoto" alt="Founder"/>
+                      </a>
+                      <p id="MemberName">Зазуляк Анастасія</p>
                       <p id="MemberPosition">Волонтер</p>
                   </div>
                 </div>
