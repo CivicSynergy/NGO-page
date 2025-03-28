@@ -152,6 +152,13 @@ cascade:
                       <p id="MemberPosition">Волонтер</p>
                   </div>
                   <div id="teamMemberBlockContent">
+                      <a href="/cvs/Volunteers/Taras Zhuk/TARAS ZHUK.pdf" target="blank">
+                        <img src="/images/Team/Members/Taras Zhuk.jpg" class="teamMemberCVPhoto" alt="Founder"/>
+                      </a>
+                      <p id="MemberName">Жук Тарас</p>
+                      <p id="MemberPosition">Волонтер</p>
+                  </div>
+                  <div id="teamMemberBlockContent">
                       <a href="/cvs/Volunteers/Zastavna/CV Zastavna.pdf" target="blank">
                         <img src="/images/Team/Members/Zastavna.jpg" class="teamMemberCVPhoto" alt="Founder"/>
                       </a>

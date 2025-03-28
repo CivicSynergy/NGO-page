@@ -153,6 +153,13 @@ featured_image: "/images/Main-preview2.jpg"
                       <p id="MemberPosition">Volunteer</p>
                   </div>
                   <div id="teamMemberBlockContent">
+                      <a href="/cvs/Volunteers/Taras Zhuk/TARAS ZHUK.pdf" target="blank">
+                        <img src="/images/Team/Members/Taras Zhuk.jpg" class="teamMemberCVPhoto" alt="Founder"/>
+                      </a>
+                      <p id="MemberName">Taras Zhuk</p>
+                      <p id="MemberPosition">Volunteer</p>
+                  </div>
+                  <div id="teamMemberBlockContent">
                       <a href="/cvs/Volunteers/Zastavna/CV Zastavna.pdf" target="blank">
                         <img src="/images/Team/Members/Zastavna.jpg" class="teamMemberCVPhoto" alt="Founder"/>
                       </a>
