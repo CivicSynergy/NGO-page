@@ -1,7 +1,7 @@
 ---
 date: 2025-04-10T00:00:00-05:00
 description: 'Presentation of AFID project implementation results in Nowy Sącz at the conference "Development of the digital age worker" (9.04.2025)'
-featured_image: "/images/Posts/Post10/image8.JPG"
+featured_image: "/images/Posts/Post10/image8.jpg"
 tags: ["Erasmus+ AFID", "Digital Skills", "Inclusive Education", "Online Learning", "Teacher Training", "MS Teams", "Civic Synergy", "International Collaboration", "Ukrainian HEIs"]
 title: 'Presentation of AFID project implementation results in Nowy Sącz at the conference "Development of the digital age worker" (9.04.2025)'
 ---
@@ -10,11 +10,11 @@ On 9 April 2025, the Higher School of Business - National Louis University, Nowy
 During an informal meeting between Prof. Dlugopolskyi and the Rector of WSB-NLU Dariusz Woźniak, the prospects of signing a memorandum of cooperation between WUNU and WSB-NLU on the exchange of students and teachers, joint research and international projects were discussed.
 <br/>
 
-<img src="/images/Posts/Post10/image1.JPG"/>
-<img src="/images/Posts/Post10/image2.JPG"/>
-<img src="/images/Posts/Post10/image3.JPG"/>
-<img src="/images/Posts/Post10/image4.JPG"/>
-<img src="/images/Posts/Post10/image5.JPG"/>
-<img src="/images/Posts/Post10/image6.JPG"/>
-<img src="/images/Posts/Post10/image7.JPG"/>
-<img src="/images/Posts/Post10/image8.JPG"/>
+<img src="/images/Posts/Post10/image1.jpg"/>
+<img src="/images/Posts/Post10/image2.jpg"/>
+<img src="/images/Posts/Post10/image3.jpg"/>
+<img src="/images/Posts/Post10/image4.jpg"/>
+<img src="/images/Posts/Post10/image5.jpg"/>
+<img src="/images/Posts/Post10/image6.jpg"/>
+<img src="/images/Posts/Post10/image7.jpg"/>
+<img src="/images/Posts/Post10/image8.jpg"/>
