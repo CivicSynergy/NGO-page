@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/tags/civic-synergy/</loc>
-    <lastmod>2025-02-26T00:00:00-06:00</lastmod>
+    <lastmod>2025-04-10T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/digital-skills/</loc>
-    <lastmod>2025-02-26T00:00:00-06:00</lastmod>
+    <lastmod>2025-04-10T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/erasmus&#43;-afid/</loc>
-    <lastmod>2025-02-26T00:00:00-06:00</lastmod>
+    <lastmod>2025-04-10T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -28,17 +28,17 @@
                 />
   </url><url>
     <loc>http://localhost:1313/tags/inclusive-education/</loc>
-    <lastmod>2025-02-26T00:00:00-06:00</lastmod>
+    <lastmod>2025-04-10T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/international-collaboration/</loc>
-    <lastmod>2025-02-26T00:00:00-06:00</lastmod>
+    <lastmod>2025-04-10T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/ms-teams/</loc>
-    <lastmod>2025-02-26T00:00:00-06:00</lastmod>
+    <lastmod>2025-04-10T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -53,7 +53,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-02-26T00:00:00-06:00</lastmod>
+    <lastmod>2025-04-10T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -68,7 +68,47 @@
                 />
   </url><url>
     <loc>http://localhost:1313/tags/online-learning/</loc>
-    <lastmod>2025-02-26T00:00:00-06:00</lastmod>
+    <lastmod>2025-04-10T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/post/post-10/</loc>
+    <lastmod>2025-04-10T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="http://localhost:1313/ua/post/post-10/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/post/post-10/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-04-10T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="http://localhost:1313/ua/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/teacher-training/</loc>
+    <lastmod>2025-04-10T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/ukrainian-heis/</loc>
+    <lastmod>2025-04-10T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -86,31 +126,6 @@
                 hreflang="en-US"
                 href="http://localhost:1313/post/post-9/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-02-26T00:00:00-06:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk"
-                href="http://localhost:1313/ua/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tags/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/teacher-training/</loc>
-    <lastmod>2025-02-26T00:00:00-06:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/ukrainian-heis/</loc>
-    <lastmod>2025-02-26T00:00:00-06:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/post/post-8/</loc>
     <lastmod>2025-02-26T00:00:00-05:00</lastmod>

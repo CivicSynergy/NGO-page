@@ -1,7 +1,7 @@
 ---
 date: 2025-04-10T00:00:00-05:00
 description: 'Презентація результатів реалізації проекту AFID в м. Новий Сонч на конференції «Rozwój pracownika ery cyfrowej / Development of the digital worker» (9.04.2025)'
-featured_image: "/images/Posts/Post10/image8.JPG"
+featured_image: "/images/Posts/Post10/image8.jpg"
 tags: ["Erasmus+ AFID", "Цифрові навички", "Інклюзивна освіта", "Онлайн-навчання", "Підготовка викладачів", "MS Teams", "Громадська синергія", "Міжнародна співпраця", "Заклади вищої освіти України"]
 title: 'Презентація результатів реалізації проекту AFID в м. Новий Сонч на конференції «Rozwój pracownika ery cyfrowej / Development of the digital worker» (9.04.2025)'
 ---
@@ -10,11 +10,11 @@ title: 'Презентація результатів реалізації пр�
 Під час неформальної зустрічі проф. Длугопольський О.В. із ректором WSB-NLU Dariusz Woźniak були обговорені перспективи підписання меморантуду про співпрацю між ЗУНУ та WSB-NLU щодо обміну студентами та викладачами, спільних наукових досліджень та міжнародних проектів.
 <br/>
 
-<img src="/images/Posts/Post10/image1.JPG"/>
-<img src="/images/Posts/Post10/image2.JPG"/>
-<img src="/images/Posts/Post10/image3.JPG"/>
-<img src="/images/Posts/Post10/image4.JPG"/>
-<img src="/images/Posts/Post10/image5.JPG"/>
-<img src="/images/Posts/Post10/image6.JPG"/>
-<img src="/images/Posts/Post10/image7.JPG"/>
-<img src="/images/Posts/Post10/image8.JPG"/>
+<img src="/images/Posts/Post10/image1.jpg"/>
+<img src="/images/Posts/Post10/image2.jpg"/>
+<img src="/images/Posts/Post10/image3.jpg"/>
+<img src="/images/Posts/Post10/image4.jpg"/>
+<img src="/images/Posts/Post10/image5.jpg"/>
+<img src="/images/Posts/Post10/image6.jpg"/>
+<img src="/images/Posts/Post10/image7.jpg"/>
+<img src="/images/Posts/Post10/image8.jpg"/>
