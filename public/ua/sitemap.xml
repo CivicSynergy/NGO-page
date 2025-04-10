@@ -92,6 +92,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/ua/post/post-10/</loc>
+    <lastmod>2025-02-26T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/ua/post/post-9/</loc>
     <lastmod>2025-02-26T00:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
