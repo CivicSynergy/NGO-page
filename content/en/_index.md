@@ -141,6 +141,13 @@ featured_image: "/images/Main-preview2.jpg"
                       <p id="MemberName">Anastasia Virkovska</p>
                       <p id="MemberPosition">Expert</p>
                   </div>
+                  <div id="teamMemberBlockContent">
+                      <a href="/cvs/Volunteers/Chyrak/CV_Chyrakdocx.docx" target="blank">
+                        <img src="/images/Team/Members/Iryna Chyrak.jpg" class="teamMemberCVPhoto" alt="Founder"/>
+                      </a>
+                      <p id="MemberName">Iryna Chyrak</p>
+                      <p id="MemberPosition">Expert</p>
+                  </div>
               </div>
               <h1 class="blockTitle" id="community-center-link">Volunteers</h1>
               <hr class="separator"/>
