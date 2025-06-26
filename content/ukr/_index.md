@@ -140,6 +140,13 @@ cascade:
                       <p id="MemberName">Вірковська Анастасія</p>
                       <p id="MemberPosition">Експерт</p>
                   </div>
+                  <div id="teamMemberBlockContent">
+                      <a href="/cvs/Volunteers/Chyrak/CV_Chyrakdocx.docx" target="blank">
+                        <img src="/images/Team/Members/Iryna Chyrak.jpg" class="teamMemberCVPhoto" alt="Founder"/>
+                      </a>
+                      <p id="MemberName">Чирак Ірина</p>
+                      <p id="MemberPosition">Експерт</p>
+                  </div>
                 </div>
               <h1 class="blockTitle" id="community-center-link">Волонтери</h1>
               <hr class="separator"/>
