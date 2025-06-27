@@ -179,6 +179,13 @@ cascade:
                       <p id="MemberName">Зазуляк Анастасія</p>
                       <p id="MemberPosition">Волонтер</p>
                   </div>
+                  <div id="teamMemberBlockContent">
+                      <a href="/cvs/Volunteers/Zlata Dluhopolska/CV_Zlata_Dluhopolska.docx" target="blank">
+                        <img src="/images/Team/Members/Zlata Dluhopolska.jpg" class="teamMemberCVPhoto" alt="Founder"/>
+                      </a>
+                      <p id="MemberName">Длугопольська Злата</p>
+                      <p id="MemberPosition">Волонтер</p>
+                  </div>
                 </div>
           </div>
   </article>
