@@ -180,6 +180,13 @@ featured_image: "/images/Main-preview2.jpg"
                       <p id="MemberName">Anastasia Zazuliak</p>
                       <p id="MemberPosition">Volunteer</p>
                   </div>
+                  <div id="teamMemberBlockContent">
+                      <a href="/cvs/Volunteers/Zlata Dluhopolska/CV_Zlata_Dluhopolska.docx" target="blank">
+                        <img src="/images/Team/Members/Zlata Dluhopolska.jpg" class="teamMemberCVPhoto" alt="Founder"/>
+                      </a>
+                      <p id="MemberName">Zlata Dluhopolska</p>
+                      <p id="MemberPosition">Volunteer</p>
+                  </div>
                 </div>
           </div>
 
