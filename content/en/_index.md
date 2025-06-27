@@ -142,7 +142,7 @@ featured_image: "/images/Main-preview2.jpg"
                       <p id="MemberPosition">Expert</p>
                   </div>
                   <div id="teamMemberBlockContent">
-                      <a href="/cvs/Volunteers/Chyrak/CV_Chyrakdocx.docx" target="blank">
+                      <a href="/cvs/Volunteers/Chyrak/CV_Chyrak.pdf" target="blank">
                         <img src="/images/Team/Members/Iryna Chyrak.jpg" class="teamMemberCVPhoto" alt="Founder"/>
                       </a>
                       <p id="MemberName">Iryna Chyrak</p>
@@ -181,7 +181,7 @@ featured_image: "/images/Main-preview2.jpg"
                       <p id="MemberPosition">Volunteer</p>
                   </div>
                   <div id="teamMemberBlockContent">
-                      <a href="/cvs/Volunteers/Zlata Dluhopolska/CV_Zlata_Dluhopolska.docx" target="blank">
+                      <a href="/cvs/Volunteers/Zlata Dluhopolska/CV_Zlata_Dluhopolska.pdf" target="blank">
                         <img src="/images/Team/Members/Zlata Dluhopolska.jpg" class="teamMemberCVPhoto" alt="Founder"/>
                       </a>
                       <p id="MemberName">Zlata Dluhopolska</p>
