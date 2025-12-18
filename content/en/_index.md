@@ -122,28 +122,28 @@ featured_image: "/images/Main-preview2.jpg"
               <div class="teamMemberBoard" >
                   <div id="teamMemberBlockContent">
                       <a href="/cvs/Volunteers/Alina Zhukovska/en.pdf" target="blank">
-                        <img src="/images/Team/Members/Alina Zhukovska.jpg" class="teamMemberCVPhoto" alt="Founder"/>
+                        <img src="/images/Team/Members/Alina Zhukovska.jpg" class="teamMemberCVPhoto" alt="Expert"/>
                       </a>
                       <p id="MemberName">Alina Zhukovska</p>
                       <p id="MemberPosition">Expert</p>
                   </div>
                   <div id="teamMemberBlockContent">
                       <a href="/cvs/Volunteers/Bondarevskaya/CV Bondarevskaya.pdf" target="blank">
-                        <img src="/images/Team/Members/Bondarevskaya.jpg" class="teamMemberCVPhoto" alt="Founder"/>
+                        <img src="/images/Team/Members/Bondarevskaya.jpg" class="teamMemberCVPhoto" alt="Expert"/>
                       </a>
                       <p id="MemberName">Irina Bondarevskaya</p>
                       <p id="MemberPosition">Expert</p>
                   </div>
                   <div id="teamMemberBlockContent">
                       <a href="/cvs/Volunteers/Virkovska A/Virkovska A.pdf" target="blank">
-                        <img src="/images/Team/Members/Virkovska A.jpg" class="teamMemberCVPhoto" alt="Founder"/>
+                        <img src="/images/Team/Members/Virkovska A.jpg" class="teamMemberCVPhoto" alt="Expert"/>
                       </a>
                       <p id="MemberName">Anastasia Virkovska</p>
                       <p id="MemberPosition">Expert</p>
                   </div>
                   <div id="teamMemberBlockContent">
                       <a href="/cvs/Volunteers/Chyrak/CV_Chyrak.pdf" target="blank">
-                        <img src="/images/Team/Members/Iryna Chyrak.jpg" class="teamMemberCVPhoto" alt="Founder"/>
+                        <img src="/images/Team/Members/Iryna Chyrak.jpg" class="teamMemberCVPhoto" alt="Expert"/>
                       </a>
                       <p id="MemberName">Iryna Chyrak</p>
                       <p id="MemberPosition">Expert</p>
@@ -154,37 +154,58 @@ featured_image: "/images/Main-preview2.jpg"
                 <div class="teamMemberBoard" >
                   <div id="teamMemberBlockContent">
                       <a href="/cvs/Volunteers/Maksym Bozhok/uk.pdf" target="blank">
-                        <img src="/images/Team/Members/Maksym Bozhok.png" class="teamMemberCVPhoto" alt="Founder"/>
+                        <img src="/images/Team/Members/Maksym Bozhok.png" class="teamMemberCVPhoto" alt="Volunteer"/>
                       </a>
                       <p id="MemberName">Maksym Bozhok</p>
                       <p id="MemberPosition">Volunteer</p>
                   </div>
                   <div id="teamMemberBlockContent">
                       <a href="/cvs/Volunteers/Taras Zhuk/TARAS ZHUK.pdf" target="blank">
-                        <img src="/images/Team/Members/Taras Zhuk.jpg" class="teamMemberCVPhoto" alt="Founder"/>
+                        <img src="/images/Team/Members/Taras Zhuk.jpg" class="teamMemberCVPhoto" alt="Volunteer"/>
                       </a>
                       <p id="MemberName">Taras Zhuk</p>
                       <p id="MemberPosition">Volunteer</p>
                   </div>
                   <div id="teamMemberBlockContent">
                       <a href="/cvs/Volunteers/Zastavna/CV Zastavna.pdf" target="blank">
-                        <img src="/images/Team/Members/Zastavna.jpg" class="teamMemberCVPhoto" alt="Founder"/>
+                        <img src="/images/Team/Members/Zastavna.jpg" class="teamMemberCVPhoto" alt="Volunteer"/>
                       </a>
                       <p id="MemberName">Viktoria Zastavna</p>
                       <p id="MemberPosition">Volunteer</p>
                   </div>
                   <div id="teamMemberBlockContent">
                       <a href="/cvs/Volunteers\ZAZULIAK\CV Resume.pdf" target="blank">
-                        <img src="/images/Team/Members/ZAZULIAK.jpg" class="teamMemberCVPhoto" alt="Founder"/>
+                        <img src="/images/Team/Members/ZAZULIAK.jpg" class="teamMemberCVPhoto" alt="Volunteer"/>
                       </a>
                       <p id="MemberName">Anastasia Zazuliak</p>
                       <p id="MemberPosition">Volunteer</p>
                   </div>
                   <div id="teamMemberBlockContent">
                       <a href="/cvs/Volunteers/Zlata Dluhopolska/CV_Zlata_Dluhopolska.pdf" target="blank">
-                        <img src="/images/Team/Members/Zlata Dluhopolska.jpg" class="teamMemberCVPhoto" alt="Founder"/>
+                        <img src="/images/Team/Members/Zlata Dluhopolska.jpg" class="teamMemberCVPhoto" alt="Volunteer"/>
                       </a>
                       <p id="MemberName">Zlata Dluhopolska</p>
+                      <p id="MemberPosition">Volunteer</p>
+                  </div>
+                  <div id="teamMemberBlockContent">
+                      <a href="/cvs/Volunteers/Iryna Tiukh/Iryna Tiukh.pdf" target="blank">
+                        <img src="/images/Team/Members/Iryna Tiukh.jpg" class="teamMemberCVPhoto" alt="Volunteer"/>
+                      </a>
+                      <p id="MemberName">Iryna Tiukh</p>
+                      <p id="MemberPosition">Volunteer</p>
+                  </div>
+                  <div id="teamMemberBlockContent">
+                      <a href="/cvs/Volunteers/Evelina Buianska/Evelina Buianska.pdf" target="blank">
+                        <img src="/images/Team/Members/Evelina Buianska.jpg" class="teamMemberCVPhoto" alt="Volunteer"/>
+                      </a>
+                      <p id="MemberName">Evelina Buianska</p>
+                      <p id="MemberPosition">Volunteer</p>
+                  </div>
+                  <div id="teamMemberBlockContent">
+                      <a href="/cvs/Volunteers/Myroniuk Angelina/Myroniuk Angelina.pdf" target="blank">
+                        <img src="/images/Team/Members/Myroniuk Angelina.jpg" class="teamMemberCVPhoto" alt="Volunteer"/>
+                      </a>
+                      <p id="MemberName">Angelina Myroniuk</p>
                       <p id="MemberPosition">Volunteer</p>
                   </div>
                 </div>
