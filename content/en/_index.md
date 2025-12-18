@@ -208,6 +208,13 @@ featured_image: "/images/Main-preview2.jpg"
                       <p id="MemberName">Angelina Myroniuk</p>
                       <p id="MemberPosition">Volunteer</p>
                   </div>
+                  <div id="teamMemberBlockContent">
+                      <a href="/cvs/Volunteers/Viktoriia Pavlyk/Viktoriia Pavlyk.pdf" target="blank">
+                        <img src="/images/Team/Members/Viktoriia Pavlyk.jpg" class="teamMemberCVPhoto" alt="Volunteer"/>
+                      </a>
+                      <p id="MemberName">Viktoriia Pavlyk</p>
+                      <p id="MemberPosition">Volunteer</p>
+                  </div>
                 </div>
           </div>
 

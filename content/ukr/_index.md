@@ -207,6 +207,13 @@ cascade:
                       <p id="MemberName">Миронюк Ангеліна</p>
                       <p id="MemberPosition">Волонтер</p>
                   </div>
+                  <div id="teamMemberBlockContent">
+                      <a href="/cvs/Volunteers/Viktoriia Pavlyk/Viktoriia Pavlyk.pdf" target="blank">
+                        <img src="/images/Team/Members/Viktoriia Pavlyk.jpg" class="teamMemberCVPhoto" alt="Волонтер"/>
+                      </a>
+                      <p id="MemberName">Павлик Вікторія</p>
+                      <p id="MemberPosition">Волонтер</p>
+                  </div>
                 </div>
           </div>
   </article>
