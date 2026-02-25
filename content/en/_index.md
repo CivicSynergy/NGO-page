@@ -215,6 +215,13 @@ featured_image: "/images/Main-preview2.jpg"
                       <p id="MemberName">Viktoriia Pavlyk</p>
                       <p id="MemberPosition">Volunteer</p>
                   </div>
+                  <div id="teamMemberBlockContent">
+                      <a href="/cvs/Volunteers/Zhuk Marta/CV Zhuk.pdf" target="blank">
+                        <img src="/images/Team/Members/Zhuk Marta.jpg" class="teamMemberCVPhoto" alt="Volunteer"/>
+                      </a>
+                      <p id="MemberName">Marta Zhuk</p>
+                      <p id="MemberPosition">Volunteer</p>
+                  </div>
                 </div>
           </div>
 

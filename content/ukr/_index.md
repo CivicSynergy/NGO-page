@@ -214,6 +214,13 @@ cascade:
                       <p id="MemberName">Павлик Вікторія</p>
                       <p id="MemberPosition">Волонтер</p>
                   </div>
+                  <div id="teamMemberBlockContent">
+                      <a href="/cvs/Volunteers/Zhuk Marta/CV Zhuk.pdf" target="blank">
+                        <img src="/images/Team/Members/Zhuk Marta.jpg" class="teamMemberCVPhoto" alt="Волонтер"/>
+                      </a>
+                      <p id="MemberName">Жук Марта</p>
+                      <p id="MemberPosition">Волонтер</p>
+                  </div>
                 </div>
           </div>
   </article>
